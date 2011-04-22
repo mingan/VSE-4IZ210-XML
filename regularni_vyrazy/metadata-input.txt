@@ -1,173 +1,173 @@
-VysokÃ¡ Å¡kola ekonomickÃ¡ v Praze
+Vysoká škola ekonomická v Praze
 Fakulta Informatiky a Statistiky
-â€AnalÃ½za konkurenÄnÃ­ho prostÅ™edÃ­â€
-pro pÅ™edmÄ›t 4IZ210 v letnÃ­m semestru 2011
-Vypracovali: Martin ÄŒelko /xcelm06/
-Jakub KorbelÃ¡Å™ /xkorj46/
-Å tÄ›pÃ¡n PilaÅ™ /xpils00/
-Michal StudniÄka /xstum19/
-Miroslav SuchÃ½ /xsucm26/
+„Analıza konkurencního prostredí”
+pro predmet 4IZ210 v letním semestru 2011
+Vypracovali: Martin Celko /xcelm06/
+Jakub Korbelár /xkorj46/
+Štepán Pilar /xpils00/
+Michal Studnicka /xstum19/
+Miroslav Suchı /xsucm26/
 - 1 -
 Obsah
-1 ZÃ¡kladnÃ­ referenÄnÃ­ a ekonomickÃ© Ãºdaje ........................................................................ - 2 -
-2 NabÃ­zenÃ© produkty a sluÅ¾by ........................................................................................... - 2 -
-3 SouvisejÃ­cÃ­ ...................................................................................................................... - 3 -
-3.1 Historie a vÃ½voj spoleÄnosti ...................................................................................... - 3 -
-3.2 VÃ½roba a pracoviÅ¡tÄ› ................................................................................................. - 4 -
-3.3 ObchodnÃ­ sÃ­Å¥ ............................................................................................................ - 4 -
-3.4 OcenÄ›nÃ­ ................................................................................................................... - 5 -
+1 Základní referencní a ekonomické údaje ........................................................................ - 2 -
+2 Nabízené produkty a slutby ........................................................................................... - 2 -
+3 Související ...................................................................................................................... - 3 -
+3.1 Historie a vıvoj spolecnosti ...................................................................................... - 3 -
+3.2 Vıroba a pracovište ................................................................................................. - 4 -
+3.3 Obchodní sít ............................................................................................................ - 4 -
+3.4 Ocenení ................................................................................................................... - 5 -
 4 Projekty .......................................................................................................................... - 6 -
-4.1 Realizace zakÃ¡zek ................................................................................................... - 6 -
-4.2 VÃ½voj produktÅ¯ ......................................................................................................... - 6 -
-5. AnalÃ½za dle Porterova modelu ....................................................................................... - 7 -
-5.1 VyjednÃ¡vacÃ­ sÃ­la dodavatelÅ¯ .................................................................................... - 7 -
-5.2 VyjednÃ¡vacÃ­ sÃ­la odbÄ›ratelÅ¯ ..................................................................................... - 7 -
-5.3 Hrozba vstupu novÃ½ch hrÃ¡ÄÅ¯ .................................................................................... - 8 -
-5.4 Hrozba substituce vÃ½robku ....................................................................................... - 8 -
+4.1 Realizace zakázek ................................................................................................... - 6 -
+4.2 Vıvoj produktu ......................................................................................................... - 6 -
+5. Analıza dle Porterova modelu ....................................................................................... - 7 -
+5.1 Vyjednávací síla dodavatelu .................................................................................... - 7 -
+5.2 Vyjednávací síla odberatelu ..................................................................................... - 7 -
+5.3 Hrozba vstupu novıch hrácu .................................................................................... - 8 -
+5.4 Hrozba substituce vırobku ....................................................................................... - 8 -
 5.5 Konkurence .............................................................................................................. - 8 -
-5.5.1 Seznam konkurentÅ¯ spoleÄnosti TT KlÃ¡vesnice a.s. .......................................... - 8 -
-5.5.2 ShrnutÃ­ vlivu konkurence ................................................................................ - 9 -
-6. SWOT analÃ½za ............................................................................................................ - 10 -
-7. ZÃ¡vÄ›r ........................................................................................................................... - 11 -
+5.5.1 Seznam konkurentu spolecnosti TT Klávesnice a.s. .......................................... - 8 -
+5.5.2 Shrnutí vlivu konkurence ................................................................................ - 9 -
+6. SWOT analıza ............................................................................................................ - 10 -
+7. Záver ........................................................................................................................... - 11 -
 8. ZDROJE ...................................................................................................................... - 11 -
 - 2 -
-1 ZÃ¡kladnÃ­ referenÄnÃ­ a ekonomickÃ© Ãºdaje
-V souÄasnÃ© dobÄ› je spoleÄnost TT KlÃ¡vesnice, a.s. jednou z firem skupiny Tesla Jihlava (spolu s firmami Modia, a.s., Decoleta, a.s. a TESLA Jihlava, a.s.). SpoleÄnost se zabÃ½vÃ¡ vÃ½robou fÃ³liovÃ½ch (membrÃ¡novÃ½ch) klÃ¡vesnic a fÃ³liovÃ½ch Å¡tÃ­tkÅ¯. Seznam ÄinnostÃ­ podle NACE:
+1 Základní referencní a ekonomické údaje
+V soucasné dobe je spolecnost TT Klávesnice, a.s. jednou z firem skupiny Tesla Jihlava (spolu s firmami Modia, a.s., Decoleta, a.s. a TESLA Jihlava, a.s.). Spolecnost se zabıvá vırobou fóliovıch (membránovıch) klávesnic a fóliovıch štítku. Seznam cinností podle NACE:
 273300:
-VÃ½roba elektroinstalaÄnÃ­ch zaÅ™Ã­zenÃ­
+Vıroba elektroinstalacních zarízení
 221000:
-VÃ½roba pryÅ¾ovÃ½ch vÃ½robkÅ¯
+Vıroba prytovıch vırobku
 222000:
-VÃ½roba plastovÃ½ch vÃ½robkÅ¯
+Vıroba plastovıch vırobku
 261000:
-VÃ½roba elektronickÃ½ch souÄÃ¡stek a desek
+Vıroba elektronickıch soucástek a desek
 268000:
-VÃ½roba magnetickÃ½ch a optickÃ½ch mÃ©diÃ­
+Vıroba magnetickıch a optickıch médií
 279000:
-VÃ½roba ostatnÃ­ch elektrickÃ½ch zaÅ™Ã­zenÃ­
+Vıroba ostatních elektrickıch zarízení
 461000:
-ZprostÅ™edkovÃ¡nÃ­ velkoobchodu a velkoobchod v zastoupenÃ­
+Zprostredkování velkoobchodu a velkoobchod v zastoupení
 740000:
-OstatnÃ­ profesnÃ­, vÄ›deckÃ© a technickÃ© Äinnosti
-2 NabÃ­zenÃ© produkty a sluÅ¾by
-ï‚· FÃ³liovÃ© Å¡tÃ­tky
-(HS 3919 - Desky folie filmy ap samolepicÃ­ z plastÅ¯)
-FÃ³liovÃ© Å¡tÃ­tky slouÅ¾Ã­ k vytvoÅ™enÃ­ grafickÃ©ho polepu pÅ™edevÅ¡Ã­m ovlÃ¡dacÃ­ch panelÅ¯ a tÃ­m k vytvoÅ™enÃ­ Å¾Ã¡doucÃ­ho designu celÃ©ho zaÅ™Ã­zenÃ­. Å tÃ­tek neobsahuje Å¾Ã¡dnÃ© spÃ­nacÃ­ prvky. PodobnÄ› jako fÃ³liovÃ¡ klÃ¡vesnice vÅ¡ak Å¡tÃ­tek mÅ¯Å¾e bÃ½t opatÅ™en prÅ¯hledovÃ½mi okny pro displeje, kapsami pro zasouvÃ¡nÃ­ popisÅ¯, mÅ¯Å¾e bÃ½t embosovÃ¡n (vÃ½Å¡kovÃ© tvarovÃ¡nÃ­ fÃ³lie) apod.
-o Potisk ze zadnÃ­ strany
-ï‚§ polyesterovÃ© fÃ³lie
-ï‚§ polykarbonÃ¡tovÃ© fÃ³lie
-o Potisk z pÅ™ednÃ­ strany
-ï‚§ PVC fÃ³lie
-ï‚§ Al stÅ™Ã­brnÃ© fÃ³lie
+Ostatní profesní, vedecké a technické cinnosti
+2 Nabízené produkty a sluby
+? Fóliové štítky
+(HS 3919 - Desky folie filmy ap samolepicí z plastu)
+Fóliové štítky slouí k vytvorení grafického polepu predevším ovládacích panelu a tím k vytvorení ádoucího designu celého zarízení. Štítek neobsahuje ádné spínací prvky. Podobne jako fóliová klávesnice však štítek mue bıt opatren pruhledovımi okny pro displeje, kapsami pro zasouvání popisu, mue bıt embosován (vıškové tvarování fólie) apod.
+o Potisk ze zadní strany
+? polyesterové fólie
+? polykarbonátové fólie
+o Potisk z prední strany
+? PVC fólie
+? Al stríbrné fólie
 - 3 -
-ï‚· KlÃ¡vesnice
-(HS 847160 - Jednotky vstupnÃ­ nebo vÃ½stupnÃ­ (tiskÃ¡rny,klÃ¡vesnice atd.))
-FÃ³liovÃ© klÃ¡vesnice majÃ­ Å¡irokÃ© uplatnÄ›nÃ­ pÅ™edevÅ¡Ã­m proto, Å¾e se jednÃ¡ o levnÃ½, kvalitnÃ­ a mnohavariantnÃ­ elektromechanickÃ½ spÃ­nacÃ­ prvek. Oblast pouÅ¾itÃ­ sahÃ¡ od prÅ¯myslovÃ½ch strojÅ¯ pÅ™es automatizaci a robotiku, mÄ›Å™Ã­cÃ­ zaÅ™Ã­zenÃ­ aÅ¾ po vybavenÃ­ zdravotnickÃ½ch a fitness center, malÃ© domÃ¡cÃ­ spotÅ™ebiÄe a spotÅ™ebnÃ­ elektroniku, ale i zabezpeÄovacÃ­ systÃ©my Äi zbrojnÃ­ prÅ¯mysl.
-ï‚§ KlÃ¡vesnice bez mechanickÃ©
+? Klávesnice
+(HS 847160 - Jednotky vstupní nebo vıstupní (tiskárny,klávesnice atd.))
+Fóliové klávesnice mají široké uplatnení predevším proto, e se jedná o levnı, kvalitní a mnohavariantní elektromechanickı spínací prvek. Oblast pouití sahá od prumyslovıch stroju pres automatizaci a robotiku, merící zarízení a po vybavení zdravotnickıch a fitness center, malé domácí spotrebice a spotrební elektroniku, ale i zabezpecovací systémy ci zbrojní prumysl.
+? Klávesnice bez mechanické
 odezvy
-ï‚§ KlÃ¡vesnice s mechanickou
+? Klávesnice s mechanickou
 odezvou
-ï‚§ KlÃ¡vesnice se zabudovanÃ½mi
-LED a prÅ¯hledovÃ½mi okny
-ï‚§ KlÃ¡vesnice s dodateÄnÃ½m
-popisem tlaÄÃ­tek
-ï‚· Å˜ezÃ¡nÃ­ laserovÃ½m plotterem
-ï‚· Potisk digitÃ¡lnÃ­ tiskÃ¡rnou (digitisk)
-3 SouvisejÃ­cÃ­
-V tÃ©to kapitole se budeme vÄ›novat historii a vÃ½voji spoleÄnosti, jejÃ­ pracoviÅ¡ti a obchodnÃ­ sÃ­ti.
-3.1 Historie a vÃ½voj spoleÄnosti
-ï‚· 1985 - Tesla Jihlava odkoupila licenci na vÃ½robu fÃ³liovÃ½ch klÃ¡vesnic od firmy GNAD
-ï‚· 1987 - Tesla Jihlava zaÄala s vÃ½robou foliovÃ½ch klÃ¡vesnic
-ï‚· 1989 - v porevoluÄnÃ­ euforii odchÃ¡zejÃ­ zamÄ›stnanci Tesly a zaklÃ¡dajÃ­ si samostatnÃ© soukromÃ© firmy
-ï‚· 1990 - nÃ¡vrh na odtrÅ¾enÃ­ stÅ™ediska Tesly Jihlava a pÅ™ipojenÃ­ k rakouskÃ© firmÄ› HÃ„USERMANN ELECTRONIC, spol. s.r.o., nakonec se nedohodly na podmÃ­nkÃ¡ch a stÅ™edisko vÃ½roby klÃ¡vesnic zÅ¯stÃ¡vÃ¡ souÄÃ¡stÃ­ Tesly Jihlava
-ï‚· 1992 - Tesla Jihlava se stÃ¡vÃ¡ soukromou akciovou spoleÄnostÃ­
-ï‚· 2005 - stÅ™edisko vÃ½roby klÃ¡vesnic transformovÃ¡no do novÄ› vzniklÃ© akciovÃ© spoleÄnosti TT KlÃ¡vesnice, as, kterÃ¡ je 100% dceÅ™inou spoleÄnostÃ­ Tesly Jihlava, a.s.
+? Klávesnice se zabudovanımi
+LED a pruhledovımi okny
+? Klávesnice s dodatecnım
+popisem tlacítek
+? Rezání laserovım plotterem
+? Potisk digitální tiskárnou (digitisk)
+3 Související
+V této kapitole se budeme venovat historii a vıvoji spolecnosti, její pracovišti a obchodní síti.
+3.1 Historie a vıvoj spolecnosti
+? 1985 - Tesla Jihlava odkoupila licenci na vırobu fóliovıch klávesnic od firmy GNAD
+? 1987 - Tesla Jihlava zacala s vırobou foliovıch klávesnic
+? 1989 - v porevolucní euforii odcházejí zamestnanci Tesly a zakládají si samostatné soukromé firmy
+? 1990 - návrh na odtrtení strediska Tesly Jihlava a pripojení k rakouské firme HÄUSERMANN ELECTRONIC, spol. s.r.o., nakonec se nedohodly na podmínkách a stredisko vıroby klávesnic zustává soucástí Tesly Jihlava
+? 1992 - Tesla Jihlava se stává soukromou akciovou spolecností
+? 2005 - stredisko vıroby klávesnic transformováno do nove vzniklé akciové spolecnosti TT Klávesnice, as, která je 100% dcerinou spolecností Tesly Jihlava, a.s.
 - 4 -
-3.2 VÃ½roba a pracoviÅ¡tÄ›
-TT KlÃ¡vesnice, a.s. mÃ¡ sÃ­dlo firmy, pracoviÅ¡tÄ› a vÃ½robu orientovanou v jedinÃ©m sÃ­dle v ÄŒeskÃ© republice a to v JihlavÄ›, v prÅ¯myslovÃ©m parku Tesla Jihlava na adrese: HruÅ¡kovÃ½ Dvory 56, 586 01 Jihlava, ÄŒeskÃ¡ republika.
-3.3 ObchodnÃ­ sÃ­Å¥
-TT KlÃ¡vesnice, a.s. nemajÃ­ vytvoÅ™enou obchodnÃ­ sÃ­Å¥ podnikovÃ½ch prodejen. Existuje nÄ›kolik obchodnÃ­kÅ¯ a distributorÅ¯, kteÅ™Ã­ nabÃ­zejÃ­ standardizovanÃ© produkty firmy. Ale TT KlÃ¡vesnice, a.s. je zamÄ›Å™ena na osobnÃ­ pÅ™Ã­stup ke kaÅ¾dÃ©mu zÃ¡kaznÃ­kovi, neboÅ¥ se jednÃ¡ o zakÃ¡zkovou vÃ½robu.
-ZÃ¡kaznÃ­ky informujÃ­ o svÃ© Äinnosti pomocÃ­ odkazÅ¯ v katalozÃ­ch firem <http://www.ttklavesnice.cz/cs/27_odkazy.php> ZÃ¡jemce kontaktuje firmu pomocÃ­ jednoduchÃ©ho dotaznÃ­ku na poptÃ¡vku a ten je nÃ¡slednÄ› kontaktovÃ¡n zamÄ›stnancem TT KlÃ¡vesnice, a.s.
-TT KlÃ¡vesnice, a.s. mÃ¡ pro styk s veÅ™ejnostÃ­ dvÄ› oddÄ›lenÃ­: technickÃ© a obchodnÃ­ oddÄ›lenÃ­.
-ï‚· Pro technickÃ© konzultace:
-Bc. Petr Å½Ã¡k, vedoucÃ­ technickÃ©ho oddÄ›lenÃ­
+3.2 Vıroba a pracovište
+TT Klávesnice, a.s. má sídlo firmy, pracovište a vırobu orientovanou v jediném sídle v Ceské republice a to v Jihlave, v prumyslovém parku Tesla Jihlava na adrese: Hruškovı Dvory 56, 586 01 Jihlava, Ceská republika.
+3.3 Obchodní sít
+TT Klávesnice, a.s. nemají vytvorenou obchodní sít podnikovıch prodejen. Existuje nekolik obchodníku a distributoru, kterí nabízejí standardizované produkty firmy. Ale TT Klávesnice, a.s. je zamerena na osobní prístup ke katdému zákazníkovi, nebot se jedná o zakázkovou vırobu.
+Zákazníky informují o své cinnosti pomocí odkazu v katalozích firem <http://www.ttklavesnice.cz/cs/27_odkazy.php> Zájemce kontaktuje firmu pomocí jednoduchého dotazníku na poptávku a ten je následne kontaktován zamestnancem TT Klávesnice, a.s.
+TT Klávesnice, a.s. má pro styk s verejností dve oddelení: technické a obchodní oddelení.
+? Pro technické konzultace:
+Bc. Petr Ták, vedoucí technického oddelení
 Mob..: +420 602 133 210
 Tel..: +420 567 113 525
 Fax: +420 567 113 522
 E-mail: zak@ttklavesnice.cz, ttklavesnice@ttklavesnice.cz
-ï‚· Pro obchodnÃ­ konzultace, vytvoÅ™enÃ­ cenovÃ© nabÃ­dky:
-LuboÅ¡ Svoboda, vedoucÃ­ obchodnÃ­ho oddÄ›lenÃ­
+? Pro obchodní konzultace, vytvorení cenové nabídky:
+Luboš Svoboda, vedoucí obchodního oddelení
 Mob..: +420 602 133 220
 Tel..: +420 567 113 522
 Fax: +420 567 113 522
 E-mail: svoboda@ttklavesnice.cz
 - 5 -
-3.4 OcenÄ›nÃ­
-TT KlÃ¡vesnice, a.s. je drÅ¾itelem dvou certifikÃ¡tÅ¯ ISO, kterÃ© bezpochyby pÅ™idÃ¡vajÃ­ na cenÄ› a kvalitÄ› jejich produktÅ¯.
-ï‚· ISO 9001:2008 - zavedla a pouÅ¾Ã­vÃ¡ systÃ©m managementu jakosti v oboru vÃ½roba a prodej fÃ³liovÃ½ch klÃ¡vesnic pro vÅ¡eobecnÃ© pouÅ¾itÃ­.
-ï‚· ÄŒSN EN ISO 14001:2005 - zavedla a pouÅ¾Ã­vÃ¡ systÃ©m enviromentÃ¡lnÃ­ho managementu v oboru vÃ½roba a prodej fÃ³liovÃ½ch klÃ¡vesnic.
-ï‚·
+3.4 Ocenení
+TT Klávesnice, a.s. je drtitelem dvou certifikátu ISO, které bezpochyby pridávají na cene a kvalite jejich produktu.
+? ISO 9001:2008 - zavedla a poutívá systém managementu jakosti v oboru vıroba a prodej fóliovıch klávesnic pro všeobecné poutití.
+? CSN EN ISO 14001:2005 - zavedla a poutívá systém enviromentálního managementu v oboru vıroba a prodej fóliovıch klávesnic.
+?
 - 6 -
 4 Projekty
-O uskuteÄnÄ›nÃ½ch Äi ztracenÃ½ch projektech nejsou (nebo jsem nenaÅ¡el) Å¾Ã¡dnÃ© veÅ™ejnÃ© informace. PodobnÄ› jako i pÅ™i seznamu dodavatelÅ¯ a odbÄ›ratelÅ¯, si firma kvÅ¯li vlivu konkurenÄnÃ­ho tlaku koncentrovanÃ©m ve stejnÃ©m mÄ›stÄ› tyto informace stÅ™eÅ¾Ã­ jako internÃ­.
-4.1 Realizace zakÃ¡zek
-Produkty jsou vyrÃ¡bÄ›nÃ© podle standardnÃ­ho provedenÃ­ a takÃ© na zakÃ¡zku. SamozÅ™ejmÄ›, koneÄnÃ½ produkt zakÃ¡zky standardnÃ­ch typÅ¯ fÃ³liovÃ½ch klÃ¡vesnic a Å¡tÃ­tkÅ¯ jsou levnÄ›jÅ¡Ã­, vzhledem k tomu, Å¾e nÃ¡klady na vÃ½robu sniÅ¾ujÃ­ pÅ™edem vytvoÅ™enÃ© standartizovanÃ© Å¡ablony (napÅ™. Å¡ablona na vÃ½Å™ez samostatnÃ½ch Å¡tÃ­tkÅ¯).
-PÅ™i objednÃ¡vce na zakÃ¡zku si zÃ¡jemce volÃ­ tvar a rozmÄ›r klÃ¡vesnice, mÅ¯Å¾e si zvolit tvar klÃ¡ves, jejich barvu, rozmÄ›r, popis. HmatnÃ­ky mohou bÃ½t plochÃ©, nebo tvarovanÃ© s vloÅ¾enou kovovou Å¾abkou. ZÃ¡kaznÃ­k mÃ¡ dÃ¡le moÅ¾nost si zvolit typ ukonÄenÃ­, pÅ™idat prÅ¯hlednÃ© okÃ©nka nÃ¡vÄ›stnÃ­ch svÃ­tilen s LED, pÅ™idat plastovou kapsu na nÃ¡vod, a jinÃ©. Podle ÃºÄelu a mÃ­sta pouÅ¾itÃ­ klÃ¡vesnice se volÃ­ i vrchnÃ­ materiÃ¡l pokrytÃ­ klÃ¡vesnice (odolnost proti vlhkosti, rÅ¯znÃ½m chemikÃ¡liÃ­m, vÄ›tÅ¡Ã­ odolnost proti opotÅ™ebenÃ­).
-ÃšplnÃ© informace o volitelnÃ½ch parametrech a i samotnÃ½ poptÃ¡vkovÃ½ dotaznÃ­k na zakÃ¡zku najdete na jejich webovÃ½ch strÃ¡nkÃ¡ch, http://www.ttklavesnice.cz/cs/15_pokyny-poptavka-objednavka-klavesnic.php, kde takÃ© najdete objednÃ¡vkovÃ½ formulÃ¡Å™ Specifikace fÃ³liovÃ© klÃ¡vesnice nebo Specifikace fÃ³liovÃ©ho Å¡tÃ­tku.
-4.2 VÃ½voj produktÅ¯
-Od poÄÃ¡tku vÃ½roby foliovÃ½ch klÃ¡vesnic spoleÄnost podlÃ©hÃ¡ technologickÃ©mu vÃ½voji, novÃ½m vÄ›deckÃ½m poznatkÅ¯m a vynÃ¡lezem a inovacÃ­ novÃ½ch materiÃ¡lÅ¯.
-Pro vysokÃ© nÃ¡klady firma sice stÃ¡le pouÅ¾Ã­vÃ¡ pÅ¯vodnÃ­ vybavenÃ­ pro vÃ½robu fÃ³liovÃ½ch klÃ¡vesnic, ale proÅ¡ly nespoÄetnÃ½mi inovacemi a vylepÅ¡enÃ­mi na zvÃ½Å¡enÃ­ produktivity, kvality a pro pouÅ¾Ã­vÃ¡nÃ­ novÃ½ch materiÃ¡lÅ¯.
-Pro uspokojenÃ­ potÅ™eb a poÅ¾adavkÅ¯ zÃ¡kaznÃ­kÅ¯ spoleÄnost stÃ¡le rozÅ¡iÅ™uje svÅ¯j sortiment vÃ½robkÅ¯ a tÃ­m investuje do novÃ½ch technologiÃ­ na jejich vÃ½robu, napÅ™. â€Od srpna 2006 rozÅ¡iÅ™ujeme nabÃ­dku naÅ¡ich sluÅ¾eb o moÅ¾nost Å™ezÃ¡nÃ­ VÃ¡mi dodanÃ½ch materiÃ¡lÅ¯ na laserovÃ©m Å™ezacÃ­m plotteru EuroLaser M800, 100W.â€œ
-PouÅ¾Ã­vÃ¡nÃ­ novÃ½ch materiÃ¡lÅ¯ se odrÃ¡Å¾Ã­ na zlepÅ¡enÃ­ ÃºÄelnosti a kvality, ale mnohdy i na vÃ½slednÃ© cenÄ› produktu.
+O uskutecnenıch ci ztracenıch projektech nejsou (nebo jsem nenašel) tádné verejné informace. Podobne jako i pri seznamu dodavatelu a odberatelu, si firma kvuli vlivu konkurencního tlaku koncentrovaném ve stejném meste tyto informace stretí jako interní.
+4.1 Realizace zakázek
+Produkty jsou vyrábené podle standardního provedení a také na zakázku. Samozrejme, konecnı produkt zakázky standardních typu fóliovıch klávesnic a štítku jsou levnejší, vzhledem k tomu, te náklady na vırobu snitují predem vytvorené standartizované šablony (napr. šablona na vırez samostatnıch štítku).
+Pri objednávce na zakázku si zájemce volí tvar a rozmer klávesnice, mute si zvolit tvar kláves, jejich barvu, rozmer, popis. Hmatníky mohou bıt ploché, nebo tvarované s vlotenou kovovou tabkou. Zákazník má dále motnost si zvolit typ ukoncení, pridat pruhledné okénka návestních svítilen s LED, pridat plastovou kapsu na návod, a jiné. Podle úcelu a místa poutití klávesnice se volí i vrchní materiál pokrytí klávesnice (odolnost proti vlhkosti, ruznım chemikáliím, vetší odolnost proti opotrebení).
+Úplné informace o volitelnıch parametrech a i samotnı poptávkovı dotazník na zakázku najdete na jejich webovıch stránkách, http://www.ttklavesnice.cz/cs/15_pokyny-poptavka-objednavka-klavesnic.php, kde také najdete objednávkovı formulár Specifikace fóliové klávesnice nebo Specifikace fóliového štítku.
+4.2 Vıvoj produktu
+Od pocátku vıroby foliovıch klávesnic spolecnost podléhá technologickému vıvoji, novım vedeckım poznatkum a vynálezem a inovací novıch materiálu.
+Pro vysoké náklady firma sice stále poutívá puvodní vybavení pro vırobu fóliovıch klávesnic, ale prošly nespocetnımi inovacemi a vylepšeními na zvıšení produktivity, kvality a pro poutívání novıch materiálu.
+Pro uspokojení potreb a potadavku zákazníku spolecnost stále rozširuje svuj sortiment vırobku a tím investuje do novıch technologií na jejich vırobu, napr. „Od srpna 2006 rozširujeme nabídku našich slueb o monost rezání Vámi dodanıch materiálu na laserovém rezacím plotteru EuroLaser M800, 100W.“
+Poutívání novıch materiálu se odrátí na zlepšení úcelnosti a kvality, ale mnohdy i na vısledné cene produktu.
 - 7 -
-5. AnalÃ½za dle Porterova modelu
-5.1 VyjednÃ¡vacÃ­ sÃ­la dodavatelÅ¯
-SpoleÄnost odebÃ­rÃ¡ od dodavatelÅ¯ pÅ™edevÅ¡Ã­m fÃ³lie, lepidla, vodivÃ© plasty a nÄ›kterÃ© dalÅ¡Ã­ zÃ¡kladnÃ­ materiÃ¡ly. Na trhu pÅ¯sobÃ­ velkÃ© mnoÅ¾stvÃ­ velkÃ½ch, stÅ™ednÃ­ch i malÃ½ch firem nebo distributorÅ¯, kteÅ™Ã­ jsou schopni tuto poptÃ¡vku uspokojit. DÃ­ky dostateÄnÃ©mu mnoÅ¾stvÃ­ dodavatelÅ¯ nemusÃ­ bÃ½t spoleÄnost zÃ¡vislÃ¡ ÄistÄ› na nÄ›kterÃ©m z nich a dÃ­ky konkurenci mÅ¯Å¾e dostateÄnÄ› efektivnÄ› vyjednÃ¡vat o cenÃ¡ch a mnoÅ¾stvÃ­ dodÃ¡vanÃ½ch materiÃ¡lÅ¯. VÅ¡echny odebÃ­ranÃ© materiÃ¡ly jsou standardnÃ­m zboÅ¾Ã­m tudÃ­Å¾ se sebou pÅ™echod od jednoho dodavatele ke druhÃ©mu nenese vÃ½raznÄ›jÅ¡Ã­ MoÅ¾nÃ½mi dodavateli jsou napÅ™Ã­klad:
-1) 3M ÄŒesko, spol. s r.o. http://www.3m.com/
-2) DuPont CZ s.r.o. http://www.dupond.com SlabÃ½ vliv
-5.2 VyjednÃ¡vacÃ­ sÃ­la odbÄ›ratelÅ¯
-VÃ½roba klÃ¡vesnic je zakÃ¡zkovÃ¡, protoÅ¾e kaÅ¾dÃ© zaÅ™Ã­zenÃ­, kterÃ© mÃ¡ bÃ½t vybaveno klÃ¡vesnicÃ­ mÃ¡ jinÃ© poÅ¾adavky. Schopnost uspokojenÃ­ specifickÃ½ch poÅ¾adavkÅ¯ odbÄ›ratele je tedy dÅ¯leÅ¾itÃ½m faktorem pro zisk zakÃ¡zky, protoÅ¾e vÅ¡ichni konkurenti jsou pÅ™ipraveni vyjÃ­t zÃ¡kaznÃ­kovi vstÅ™Ã­c. VÃ½hodou je, Å¾e fÃ³liovÃ© klÃ¡vesnice nejsou jednoznaÄnÄ› nahraditelnÃ© jakÃ½mkoliv substitutem (zmÃ­nÄ›no dÃ¡le), tudÃ­Å¾ se poÄet konkurentÅ¯ sniÅ¾uje, coÅ¾ zÃ¡roveÅˆ zlepÅ¡uje vÃ½chozÃ­ podmÃ­nky pro vyjednÃ¡vÃ¡nÃ­. S rostoucÃ­ velikostÃ­ objednÃ¡vky a poÄtu kusÅ¯ v sÃ©rii mÃ¡ odbÄ›ratel lepÅ¡Ã­ vyjednÃ¡vacÃ­ pozici, coÅ¾ je tÅ™eba zohlednit pÅ™i vedenÃ­ firmy. O velikosti objednÃ¡vek a poÄtu kusÅ¯ nejsou dostupnÃ© Å¾Ã¡dnÃ© informace. Lze vÅ¡ak pÅ™edpoklÃ¡dat, Å¾e pÅ™i tak Å¡irokÃ© oblasti pouÅ¾itÃ­ a cenÄ›, bude spoleÄnost uskuteÄÅˆovat rÅ¯znÄ› velkÃ© dodÃ¡vky. NezÃ¡visÃ­ tedy na jednom velkÃ©m odbÄ›rateli, ale na celÃ© paletÄ› menÅ¡Ã­ch i vÄ›tÅ¡Ã­ch odbÄ›ratelÅ¯ s kterÃ½mi musÃ­ umÄ›t efektivnÄ› vyjednÃ¡vat vÃ½hodnÃ© obchodnÃ­ podmÃ­nky. Proto mÃ¡ silnÃ½ vliv. SilnÃ½ vliv
+5. Analıza dle Porterova modelu
+5.1 Vyjednávací síla dodavatelu
+Spolecnost odebírá od dodavatelu predevším fólie, lepidla, vodivé plasty a nekteré další základní materiály. Na trhu pusobí velké mnotství velkıch, stredních i malıch firem nebo distributoru, kterí jsou schopni tuto poptávku uspokojit. Díky dostatecnému mnotství dodavatelu nemusí bıt spolecnost závislá ciste na nekterém z nich a díky konkurenci mute dostatecne efektivne vyjednávat o cenách a mnotství dodávanıch materiálu. Všechny odebírané materiály jsou standardním zbotím tudít se sebou prechod od jednoho dodavatele ke druhému nenese vıraznejší Motnımi dodavateli jsou napríklad:
+1) 3M Cesko, spol. s r.o. http://www.3m.com/
+2) DuPont CZ s.r.o. http://www.dupond.com Slabı vliv
+5.2 Vyjednávací síla odberatelu
+Vıroba klávesnic je zakázková, protote katdé zarízení, které má bıt vybaveno klávesnicí má jiné potadavky. Schopnost uspokojení specifickıch potadavku odberatele je tedy duletitım faktorem pro zisk zakázky, protote všichni konkurenti jsou pripraveni vyjít zákazníkovi vstríc. Vıhodou je, te fóliové klávesnice nejsou jednoznacne nahraditelné jakımkoliv substitutem (zmíneno dále), tudít se pocet konkurentu snituje, cot zároven zlepšuje vıchozí podmínky pro vyjednávání. S rostoucí velikostí objednávky a poctu kusu v sérii má odberatel lepší vyjednávací pozici, cot je treba zohlednit pri vedení firmy. O velikosti objednávek a poctu kusu nejsou dostupné tádné informace. Lze však predpokládat, te pri tak široké oblasti poutití a cene, bude spolecnost uskutecnovat ruzne velké dodávky. Nezávisí tedy na jednom velkém odberateli, ale na celé palete menších i vetších odberatelu s kterımi musí umet efektivne vyjednávat vıhodné obchodní podmínky. Proto má silnı vliv. Silnı vliv
 - 8 -
-5.3 Hrozba vstupu novÃ½ch hrÃ¡ÄÅ¯
-Firma TT KlÃ¡vesnice mÃ¡ dlouhou historii (dÅ™Ã­ve jako souÄÃ¡st spoleÄnosti Tesla, dnes jako jejÃ­ dceÅ™inÃ¡ firma) a je zabÄ›hnutÃ½m hrÃ¡Äem s ustÃ¡lenou pozicÃ­ na trhu se silnou vazbou na skupinu Tesla Jihlava, s jejÃ­miÅ¾ Äleny Ãºzce spolupracuje. NovÃ¡ firma vstupujÃ­cÃ­ na trh by musela vynaloÅ¾it pomÄ›rnÄ› velkÃ© investice do vÃ½robnÃ­ho zaÅ™Ã­zenÃ­ a zÃ­skat kvalifikovanÃ© pracovnÃ­ky. NavÃ­c by musela pÅ™ijÃ­t s nÄ›jakou konkurenÄnÃ­ vÃ½hodou; vÃ½roba klÃ¡vesnic je z velkÃ© ÄÃ¡sti zakÃ¡zkovÃ¡ vÃ½roba a vÅ¡ichni hrÃ¡Äi jsou schopni se pÅ™izpÅ¯sobit poÅ¾adavkÅ¯m klienta, takÅ¾e pruÅ¾nost v pÅ™izpÅ¯sobenÃ­ se specifikÅ¯m klienta by se nestalo vÃ½hodou. Jedinou moÅ¾nostÃ­ by tak byla rychlejÅ¡Ã­ dodÃ¡vka nebo niÅ¾Å¡Ã­ cena. V obou ohledech je tÄ›Å¾kÃ© konkurovat zabÄ›hnutÃ½m firmÃ¡m. VÄ›tÅ¡Ã­ Å¡anci by mÄ›ly zabÄ›hnutÃ© podniky rozÅ¡iÅ™ujÃ­cÃ­ svojÃ­ Å¡kÃ¡lu vÃ½robkÅ¯ na klÃ¡vesnice nebo zahraniÄnÃ­ firmy, kterÃ© jsou schopny postupnÃ©ho dobÃ½vÃ¡nÃ­ mÃ­sta na trhu. PravdÄ›podobnost vstupu novÃ½ch hrÃ¡ÄÅ¯ je tedy malÃ¡ aÄkoliv to nenÃ­ vylouÄeno jak ukazuje napÅ™Ã­klad ATM SÃ­totisk. SlabÃ½ vliv
-5.4 Hrozba substituce vÃ½robku
-TT KlÃ¡vesnice vyrÃ¡bÃ­ standardizovanÃ© i zcela unikÃ¡tnÃ­ klÃ¡vesnice dle pÅ™Ã¡nÃ­ zÃ¡kaznÃ­ka, kterÃ© pak najdou uplatnÄ›nÃ­ u zaÅ™Ã­zenÃ­ urÄenÃ½ch pro vÅ¡echny moÅ¾nÃ© obory. DÃ­ky specifickÃ½m poÅ¾adavkÅ¯m majÃ­ membrÃ¡novÃ© klÃ¡vesnice vcelku jistou pozici na trhu. V pÅ™Ã­padÄ› nÄ›kterÃ½ch zaÅ™Ã­zenÃ­ se dÃ¡ uvaÅ¾ovat o vyuÅ¾itÃ­ dotykovÃ©ho displeje. DotykovÃ½ displej mÅ¯Å¾e vyuÅ¾it flexibilnÄ›ji bÄ›hem Å¾ivota zaÅ™Ã­zenÃ­, jemuÅ¾ slouÅ¾Ã­, ale je draÅ¾Å¡Ã­ a nehodÃ­ se na vÅ¡echny situace pÅ™edevÅ¡Ã­m kvÅ¯li nÃ¡chylnosti k mechanickÃ©mu poÅ¡kozenÃ­ a potÅ™ebÄ› ÄiÅ¡tÄ›nÃ­. NahrazenÃ­ foliovÃ½ch klÃ¡vesnic na ovlÃ¡dacÃ­ch panelech rÅ¯znÃ½ch zaÅ™Ã­zenÃ­ nenÃ­ pravdÄ›podobnÃ©. PotenciÃ¡lnÃ­m substitutem mohou bÃ½t dotykovÃ© displeje, ale jejich nasazenÃ­ je mnohem omezenÄ›jÅ¡Ã­. SlabÃ½ vliv
+5.3 Hrozba vstupu novıch hrácu
+Firma TT Klávesnice má dlouhou historii (dríve jako soucást spolecnosti Tesla, dnes jako její dceriná firma) a je zabehnutım hrácem s ustálenou pozicí na trhu se silnou vazbou na skupinu Tesla Jihlava, s jejímit cleny úzce spolupracuje. Nová firma vstupující na trh by musela vynalotit pomerne velké investice do vırobního zarízení a získat kvalifikované pracovníky. Navíc by musela prijít s nejakou konkurencní vıhodou; vıroba klávesnic je z velké cásti zakázková vıroba a všichni hráci jsou schopni se prizpusobit potadavkum klienta, takte prutnost v prizpusobení se specifikum klienta by se nestalo vıhodou. Jedinou motností by tak byla rychlejší dodávka nebo nitší cena. V obou ohledech je tetké konkurovat zabehnutım firmám. Vetší šanci by mely zabehnuté podniky rozširující svojí škálu vırobku na klávesnice nebo zahranicní firmy, které jsou schopny postupného dobıvání místa na trhu. Pravdepodobnost vstupu novıch hrácu je tedy malá ackoliv to není vylouceno jak ukazuje napríklad ATM Sítotisk. Slabı vliv
+5.4 Hrozba substituce vırobku
+TT Klávesnice vyrábí standardizované i zcela unikátní klávesnice dle prání zákazníka, které pak najdou uplatnení u zarízení urcenıch pro všechny motné obory. Díky specifickım potadavkum mají membránové klávesnice vcelku jistou pozici na trhu. V prípade nekterıch zarízení se dá uvatovat o vyutití dotykového displeje. Dotykovı displej mute vyutit flexibilneji behem tivota zarízení, jemut sloutí, ale je dratší a nehodí se na všechny situace predevším kvuli náchylnosti k mechanickému poškození a potrebe cištení. Nahrazení foliovıch klávesnic na ovládacích panelech ruznıch zarízení není pravdepodobné. Potenciálním substitutem mohou bıt dotykové displeje, ale jejich nasazení je mnohem omezenejší. Slabı vliv
 5.5 Konkurence
-5.5.1 Seznam konkurentÅ¯ spoleÄnosti TT KlÃ¡vesnice a.s.
-1) AKI ELECTRONIC, spol.s.r.o. (dÅ™Ã­ve HÃ„USERMANN ELECTRONIC, spol. s r.o.)
-AKI Electronic mÃ¡ podobnou skladbu nabÃ­zenÃ½ch produktÅ¯ a je pÅ™Ã­mÃ½m konkurentem TT KlÃ¡vesnice. NavÃ­c sÃ­dlÃ­ tÃ©Å¾ v JihlavÄ› a nejde tedy pouze o konkurenci na trhu zboÅ¾Ã­, ale i na trhu pracovnÃ­ch sil. Jde tedy o nezanedbatelnÃ©ho hrÃ¡Äe srovnatelnÃ© sÃ­ly. SÃ­dlo: Znojemska 94, 586 01 Jihlava
-ÄŒeskÃ¡ republika
-HlavnÃ­ produkt: FÃ³liovÃ© klÃ¡vesnice
-FÃ³liovÃ© Å¡tÃ­tky
+5.5.1 Seznam konkurentu spolecnosti TT Klávesnice a.s.
+1) AKI ELECTRONIC, spol.s.r.o. (dríve HÄUSERMANN ELECTRONIC, spol. s r.o.)
+AKI Electronic má podobnou skladbu nabízenıch produktu a je prímım konkurentem TT Klávesnice. Navíc sídlí tét v Jihlave a nejde tedy pouze o konkurenci na trhu zbotí, ale i na trhu pracovních sil. Jde tedy o nezanedbatelného hráce srovnatelné síly. Sídlo: Znojemska 94, 586 01 Jihlava
+Ceská republika
+Hlavní produkt: Fóliové klávesnice
+Fóliové štítky
 WWW: http://www.aki-electronic.cz/
-2) Milan KubÃ¡t - ATM SÃ­totisk
+2) Milan Kubát - ATM Sítotisk
 - 9 -
-ATM SÃ­totisk je malÃ¡ firma bÃ½valÃ©ho zamÄ›stnance Tesly, kterÃ¡ taktÃ©Å¾ pÅ¯sobÃ­ v JihlavÄ›. Vzhledem k rozsahu nejde o silnou konkurenci pro vÄ›tÅ¡Ã­ zakÃ¡zky, aÄkoliv se dÃ¡ pÅ™edpoklÃ¡dat vÄ›tÅ¡Ã­ pruÅ¾nost pÅ™i zpracovÃ¡nÃ­ menÅ¡Ã­ch zakÃ¡zek. SÃ­dlo: Musilova 36, 586 01 Jihlava
-ÄŒeskÃ¡ republika
-HlavnÃ­ produkt: FÃ³liovÃ© klÃ¡vesnice
-FÃ³liovÃ© Å¡tÃ­tky
+ATM Sítotisk je malá firma bıvalého zamestnance Tesly, která taktét pusobí v Jihlave. Vzhledem k rozsahu nejde o silnou konkurenci pro vetší zakázky, ackoliv se dá predpokládat vetší prutnost pri zpracování menších zakázek. Sídlo: Musilova 36, 586 01 Jihlava
+Ceská republika
+Hlavní produkt: Fóliové klávesnice
+Fóliové štítky
 Samolepky
 WWW: http://www.atmsitotisk.cz
 3) Diametral, spol. s r.o.
-Diametral je spoleÄnost s mnohem Å¡irÅ¡Ã­ paletou sortimentu (napÃ¡jecÃ­ zdroje, mÄ›Å™Ã­cÃ­ technika, nÃ¡Å™adÃ­) a foliovÃ© Å¡tÃ­tky a klÃ¡vesnice jsou jen jednÃ­m z jejÃ­ch prvkÅ¯. Diametral tak nepÅ™edstavuje velkou hrozbu. SÃ­dlo: HrdoÅˆovickÃ¡ 178
+Diametral je spolecnost s mnohem širší paletou sortimentu (napájecí zdroje, merící technika, náradí) a foliové štítky a klávesnice jsou jen jedním z jejích prvku. Diametral tak nepredstavuje velkou hrozbu. Sídlo: Hrdonovická 178
 Praha 9
-193 00 HornÃ­ PoÄernice
-HlavnÃ­ produkt: Zdroje
-TransformÃ¡tory
-MÄ›Å™Ã­cÃ­ technika
+193 00 Horní Pocernice
+Hlavní produkt: Zdroje
+Transformátory
+Merící technika
 WWW: http://www.diametral.cz/
-4) Bopla GehÃ¤use Systeme GmbH
-NÄ›meckÃ¡ spoleÄnost Bopla je jednÃ­m z mnoha zahraniÄnÃ­ch konkurentÅ¯ TT KlÃ¡vesnice. Jde o zabÄ›hnutÃ©ho vÃ½robce a silnou konkurenci pÅ™edevÅ¡Ã­m na evropskÃ©m trhu. SÃ­dlo: BorsigstraÃŸe 17-25
-32257 BÃ¼nde,
+4) Bopla Gehäuse Systeme GmbH
+Nemecká spolecnost Bopla je jedním z mnoha zahranicních konkurentu TT Klávesnice. Jde o zabehnutého vırobce a silnou konkurenci predevším na evropském trhu. Sídlo: Borsigstraße 17-25
+32257 Bünde,
 Germany
-HlavnÃ­ produkt: Pouzdra pro elektroniku PÅ™echodky KlÃ¡vesnice WWW: http://www.bopla.de/
-5.5.2 ShrnutÃ­ vlivu konkurence
-SpoleÄnost TT KlÃ¡vesnice mÃ¡ nÄ›kolik konkurentÅ¯ na domÃ¡cÃ­m trhu. ZvlÃ¡Å¡tnostÃ­ oboru je koncentrace v JihlavÄ›, kterÃ¡ je dÅ¯vod konkurence i na trhu prÃ¡ce. VÃ¡Å¾nÃ½m konkurentem je AKI Electrornics, ostatnÃ­ spoleÄnosti majÃ­ Å™Ã¡dovÄ› menÅ¡Ã­ kapacity nebo vÃ½roba klÃ¡vesnic nenÃ­ jÃ¡drem jejich podnikÃ¡nÃ­. Na evropskÃ©m trhu je tÅ™eba poÄÃ­tat i s konkurencÃ­ velkÃ½ch firem jako Bopla. StÅ™ednÃ­ vliv
+Hlavní produkt: Pouzdra pro elektroniku Prechodky Klávesnice WWW: http://www.bopla.de/
+5.5.2 Shrnutí vlivu konkurence
+Spolecnost TT Klávesnice má nekolik konkurentu na domácím trhu. Zvláštností oboru je koncentrace v Jihlave, která je duvod konkurence i na trhu práce. Vátnım konkurentem je AKI Electrornics, ostatní spolecnosti mají rádove menší kapacity nebo vıroba klávesnic není jádrem jejich podnikání. Na evropském trhu je treba pocítat i s konkurencí velkıch firem jako Bopla. Strední vliv
 - 10 -
-6. SWOT analÃ½za
-Strengths â€¢DlouholetÃ¡ zkuÅ¡enost â€¢Spolehlivost â€¢Å piÄkovÃ© pouÅ¾itÃ© materiÃ¡ly â€¢Odolnost vÅ¯Äi chemikÃ¡liÃ­m â€¢VyhovujÃ­cÃ­ direktivÄ› RoHS EU â€¢ZakÃ¡zkovÃ¡ vÃ½roba Weaknesses â€¢PodobnÃ© vÃ½robky jako konkurence â€¢NÃ¡klady na recyklace â€¢NedostateÄnÃ½ zÃ¡jem domÃ¡cnostÃ­ â€¢ZÃ¡vislost na drahÃ½ch kovech â€¢PÅ™Ã­mÃ¡ konkurence v JihlavÄ› Opportunities â€¢KomplexnÃ­ Å™eÅ¡enÃ­ (Å™ez laserem..) â€¢Kvalita v ochranÄ› Å¾ivotnÃ­ho prostÅ™edÃ­ â€¢SniÅ¾ovÃ¡nÃ­ nÃ¡kladÅ¯ â€¢VÄ›tÅ¡Ã­ spoluprÃ¡ce se skupinou â€¢ZabÄ›hnutÃ½ podnik â€“ odvolÃ¡nÃ­ na vlastnÃ­ historii Threats â€¢ZtrÃ¡ta rozhodovÃ¡nÃ­ ve skupinÄ› â€¢RychlÃ½ vÃ½voj odvÄ›tvÃ­ â€¢SniÅ¾ovÃ¡nÃ­ poptÃ¡vky po produktech â€¢StÃ¡le stoupajÃ­cÃ­ cena stÅ™Ã­bra na trzÃ­ch â€¢PouÅ¾Ã­vÃ¡nÃ­ starÃ©ho vybavenÃ­ â€¢Substituce za dotykovÃ© displeje
+6. SWOT analıza
+Strengths •Dlouholetá zkušenost •Spolehlivost •Špickové poutité materiály •Odolnost vuci chemikáliím •Vyhovující direktive RoHS EU •Zakázková vıroba Weaknesses •Podobné vırobky jako konkurence •Náklady na recyklace •Nedostatecnı zájem domácností •Závislost na drahıch kovech •Prímá konkurence v Jihlave Opportunities •Komplexní rešení (rez laserem..) •Kvalita v ochrane tivotního prostredí •Snitování nákladu •Vetší spolupráce se skupinou •Zabehnutı podnik – odvolání na vlastní historii Threats •Ztráta rozhodování ve skupine •Rychlı vıvoj odvetví •Snitování poptávky po produktech •Stále stoupající cena stríbra na trzích •Poutívání starého vybavení •Substituce za dotykové displeje
 - 11 -
-7. ZÃ¡vÄ›r
-TT KlÃ¡vesnice, a.s. mÃ¡ pozici na trhu zabezpeÄenou hlavnÄ› kvÅ¯li svÃ© mateÅ™skÃ© spoleÄnosti Tesla Jihlava. JejÃ­ dlouholetÃ¡ historie a tradice, kvalita produktÅ¯ a jejich cena na trhu fÃ³liovÃ½ch klÃ¡vesnic v ÄŒeskÃ© republice jim vytvoÅ™ila stÃ¡lou klientelu. ZajÃ­mavÃ© je, Å¾e celÃ½ trh s fÃ³liovÃ½mi klÃ¡vesnicemi (aÅ¾ na jednu praÅ¾skou spoleÄnost) je soustÅ™edÄ›n ve mÄ›stÄ› Jihlava. ZvyÅ¡uje to ale vliv konkurenÄnÃ­ch sil v tomto oboru a je dÅ¯leÅ¾itÃ© si hlÃ­dat jako stÃ¡lÃ½ch dodavatelÅ¯, tak i odbÄ›ratelÅ¯. To nÃ¡m ale do znaÄnÃ© mÃ­ry zredukovalo pÅ™Ã­stup k informaÄnÃ­m zdrojÅ¯m pro vypracovÃ¡nÃ­ tÃ©to "analÃ½zy konkurenÄnÃ­ho prostÅ™edÃ­".
-8. ZDROJE TT KlÃ¡vesnice, a.s [online]. TT KlÃ¡vesnice, a.s. DostupnÃ© z WWW: <http://www.ttklavesnice.cz>. AUTOMA : Äasopis pro automatizacnÃ­ techniku [online]. FÃ³liovÃ© klÃ¡vesnice z Tesly Jihlava. DostupnÃ© z WWW: <http://www.odbornecasopisy.cz/index.php?id_document=27640>. Czech Trade International s.r.o. : ve svÄ›tÄ› jako doma [online]. TT KlÃ¡vesnice, a.s. DostupnÃ© z WWW: <http://tt-klavesnice.trade.cz/foliove-klavesnice>. VÃ½pis z registru ekonomickÃ½ch subjektu v ARES [online]. TT KlÃ¡vesnice, a.s. DostupnÃ© z WWW: <http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?ico=26968690&jazyk=cz&xml=1>. StatistickÃ½ metainformaÄnÃ­ systÃ©m [online]. DostupnÃ© z WWW: <http://apl.czso.cz/iSMS/cisdet.jsp?kodcis=5574>. Mapy.cz [online]. Seznam.cz, a.s. DostupnÃ© z WWW: <http://mapy.cz/#mm=ZP@x=135760384@y=133523968@z=11>.
-SWOT. In Wikipedia : the free encyclopedia [online]. St. Petersburg (Florida) : Wikipedia Foundation, DostupnÃ© z WWW: <http://cs.wikipedia.org/wiki/SWOT>.
+7. Záver
+TT Klávesnice, a.s. má pozici na trhu zabezpecenou hlavne kvuli své materské spolecnosti Tesla Jihlava. Její dlouholetá historie a tradice, kvalita produktu a jejich cena na trhu fóliovıch klávesnic v Ceské republice jim vytvorila stálou klientelu. Zajímavé je, te celı trh s fóliovımi klávesnicemi (at na jednu pratskou spolecnost) je soustreden ve meste Jihlava. Zvyšuje to ale vliv konkurencních sil v tomto oboru a je duletité si hlídat jako stálıch dodavatelu, tak i odberatelu. To nám ale do znacné míry zredukovalo prístup k informacním zdrojum pro vypracování této "analızy konkurencního prostredí".
+8. ZDROJE TT Klávesnice, a.s [online]. TT Klávesnice, a.s. Dostupné z WWW: <http://www.ttklavesnice.cz>. AUTOMA : casopis pro automatizacní techniku [online]. Fóliové klávesnice z Tesly Jihlava. Dostupné z WWW: <http://www.odbornecasopisy.cz/index.php?id_document=27640>. Czech Trade International s.r.o. : ve svete jako doma [online]. TT Klávesnice, a.s. Dostupné z WWW: <http://tt-klavesnice.trade.cz/foliove-klavesnice>. Vıpis z registru ekonomickıch subjektu v ARES [online]. TT Klávesnice, a.s. Dostupné z WWW: <http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?ico=26968690&jazyk=cz&xml=1>. Statistickı metainformacní systém [online]. Dostupné z WWW: <http://apl.czso.cz/iSMS/cisdet.jsp?kodcis=5574>. Mapy.cz [online]. Seznam.cz, a.s. Dostupné z WWW: <http://mapy.cz/#mm=ZP@x=135760384@y=133523968@z=11>.
+SWOT. In Wikipedia : the free encyclopedia [online]. St. Petersburg (Florida) : Wikipedia Foundation, Dostupné z WWW: <http://cs.wikipedia.org/wiki/SWOT>.

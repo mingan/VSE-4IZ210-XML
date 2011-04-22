@@ -85,11 +85,11 @@
             <infotype name="Adresa">
                 <!-- Výraz \p{Lu} rozpoznává velká písmena a výraz \p{Ll} malá písmena. Opět pozor na zdvojené složené závorky kvůi vložení do XML-->
                 <xsl:analyze-string select="$docAsString"                    
-                    regex="(.{{0,30}})((\p{{Lu}}[\p{{Ll}}-]+ ?)+)\s+(\d+(/\d+)?)(,\s*|\s+)(\d{{3}} \d{{2}})(,\s*|\s+)(([\p{{Lu}}\p{{N}}][\p{{Ll}}\d-]+ ?)+)((,\s*|\s+)(\p{{Lu}}[\p{{L}} -]+) (\p{{L}}+))?(.{{0,30}})">
+                    regex="(.{{0,30}})((\p{{Lu}}[\p{{Ll}}-]+ ?)+)\s+(\d+([/-]\d+)?)(,\s*|\s+)(\d{{3}} ?\d{{2}})(,\s*|\s+)(([\p{{Lu}}\p{{N}}][\p{{Ll}}\d-]+ ?)+?)(,\s*|\s+)((\p{{Lu}}[\p{{L}} -]+)( ([\p{{L}}-]+\p{{L}}))*)(.{{0,30}})">
                     <xsl:matching-substring>
                         <hit>
                             <value>
-                                <xsl:value-of select="regex-group(2)"/> <xsl:value-of select="regex-group(4)"/>, <xsl:value-of select="regex-group(7)"/>, <xsl:value-of select="regex-group(9)"/>, <xsl:value-of select="regex-group(13)"/>
+                                <xsl:value-of select="regex-group(2)"/>, <xsl:value-of select="regex-group(4)"/>, <xsl:value-of select="regex-group(7)"/>, <xsl:value-of select="regex-group(9)"/>, <xsl:value-of select="regex-group(13)"/>
                             </value>
                             <details>
                                 <part name="Ulice">
@@ -156,7 +156,7 @@
             <infotype name="Telefon">
                 <!-- Pozor, pokud se v regulárním výrazu vyskytují složené závorky, je třeba je  zdvojit -->
                 <xsl:analyze-string select="$docAsString"
-                    regex="(.{{0,30}})(\+\d{{3}} ?\d{{3}} ?\d{{3}} ?\d{{3}})(.{{0,30}})">
+                    regex="(.{{0,30}})(\+\d{{3}} ?\d{{3}} ?\d{{3}} ?\d{{3}})(.{{0,30}}?)">
                     <xsl:matching-substring>
                         <hit>                            
                             <value>
