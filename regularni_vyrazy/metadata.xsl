@@ -81,7 +81,6 @@
                 </xsl:analyze-string>
             </infotype>
             
-            <!-- nepovedlo se mi zprovoznit look behind assertions, se kterými by ten výsledek byl mnohem lepší -->
             <infotype name="Adresa">
                 <!-- Výraz \p{Lu} rozpoznává velká písmena a výraz \p{Ll} malá písmena. Opět pozor na zdvojené složené závorky kvůi vložení do XML-->
                 <xsl:analyze-string select="$docAsString"                    
