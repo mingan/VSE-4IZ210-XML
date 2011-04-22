@@ -2,34 +2,94 @@
 <?xml-stylesheet type="text/xsl" href="zbozi_feed.xsl"?>
 <SHOP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:noNamespaceSchemaLocation="zbozi_feed.xsd">
-<SHOPITEM>
-<PRODUCT>BIO káva NicaMex</PRODUCT>
-<DESCRIPTION>Tato směs velmi kvalitních odrůd kávy Arabika z Mexika a Nikaragui pochází z ekologické produkce. Směs se vyznačuje nízkou kyselostí a speciální postup pražení kávě poskytuje výrazné aroma.  Balení: 200 g     </DESCRIPTION>
-<URL>http://www.fair-bio.cz/index.php?a=detail&amp;d=1</URL>
-<AVAILABILITY>0</AVAILABILITY>
-<IMGURL>http://www.fair-bio.cz/galerie/nicamex_kopie.jpg</IMGURL>
-<PRICE>69.72</PRICE>
-<VAT>9</VAT>
- <SERVICE_LIFE>e5</SERVICE_LIFE>
-</SHOPITEM>
-<SHOPITEM>
-<PRODUCT>BIO káva Nicaragua</PRODUCT>
-<DESCRIPTION>Druhově čistá káva typu Arabika, která pochází z hornatých oblastí Nikaragui, kde ji pěstují drobní rolníci ze sdružení Cosatin a UCPCO. Káva Nikaragua je vhodná také do překapávačů a presovačů.  Balení: 250 g    </DESCRIPTION>
-<URL>http://www.fair-bio.cz/index.php?a=detail&amp;d=2</URL>
-<AVAILABILITY>0</AVAILABILITY>
-<IMGURL>http://www.fair-bio.cz/galerie/nikaragua_kopie.jpg</IMGURL>
-<PRICE>74.31</PRICE>
-<VAT>9</VAT>
- <SERVICE_LIFE>5e5</SERVICE_LIFE>
-</SHOPITEM>
-<SHOPITEM>
-<PRODUCT>BIO káva Nuevo Futuro</PRODUCT>
-<DESCRIPTION>Jemně mletá kolumbijská káva typu Arabika s plnou chutí a jemným aroma. Nuevo Futuro je vhodná pro přípravu kávy typu "turek", ale lze ji použít i do překapávačů či presovačů. Tuto kávu pro Vás pěstují drobní zemědělci z Kolumbie z družstev Asprovega a Nuevo Futuro.  Balení: 250 g    </DESCRIPTION>
-<URL>http://www.fair-bio.cz/index.php?a=detail&amp;d=3</URL>
-<AVAILABILITY>0</AVAILABILITY>
-<IMGURL>http://www.fair-bio.cz/galerie/nuevo_futuro_kopie.jpg</IMGURL>
-<PRICE>74.31</PRICE>
-<VAT>9</VAT>
- <SERVICE_LIFE>500e2</SERVICE_LIFE>
-</SHOPITEM>
+ <SHOPITEM>
+  <PRODUCT>TS 523 0003</PRODUCT>
+  <DESCRIPTION>Popisy, barevné provedení, délku a zakončení vývodu je možno upravit (úprava se promítne do ceny klávesnice).</DESCRIPTION>
+  <URL>http://www.ttklavesnice.cz/cs/soubory/TS_523_0003.pdf</URL>
+  <AVAILABILITY>0</AVAILABILITY>
+  <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/61_standard_membrane_switch_standardni_klavesnice_TS_523_0003.jpg</IMGURL>
+  <PRICE>283</PRICE>
+  <VAT>20</VAT>
+  <SERVICE_LIFE>10^6</SERVICE_LIFE>
+  <KEY_SPACING>
+   <HORIZONTAL>19</HORIZONTAL>
+   <VERTICAL>19</VERTICAL>
+  </KEY_SPACING>
+  <MECHANICAL_RESPONSE>bez odezvy</MECHANICAL_RESPONSE>
+  <KEY_COUNT>16</KEY_COUNT>
+  <INGRESS_PROTECTION>IP 65</INGRESS_PROTECTION>
+ </SHOPITEM>
+ 
+ <SHOPITEM>
+  <PRODUCT>TS 523 2000</PRODUCT>
+  <DESCRIPTION>Popisy, barevné provedení, délku a zakončení vývodu je možno upravit (úprava se promítne do ceny klávesnice).</DESCRIPTION>
+  <URL>http://www.ttklavesnice.cz/cs/soubory/TS_523_2000.pdf</URL>
+  <AVAILABILITY>0</AVAILABILITY>
+  <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/62_standard_membrane_switch_standardni_klavesnice_TS_523_2000.jpg</IMGURL>
+  <PRICE>360</PRICE>
+  <VAT>20</VAT>
+  <SERVICE_LIFE>10^6</SERVICE_LIFE>
+  <KEY_SPACING>
+   <HORIZONTAL>19</HORIZONTAL>
+   <VERTICAL>19</VERTICAL>
+  </KEY_SPACING>
+  <MECHANICAL_RESPONSE>vložená kovová žabka</MECHANICAL_RESPONSE>
+  <KEY_COUNT>16</KEY_COUNT>
+  <INGRESS_PROTECTION>IP 65</INGRESS_PROTECTION>
+ </SHOPITEM>
+ 
+ <SHOPITEM>
+  <PRODUCT>TS 523 2041</PRODUCT>
+  <DESCRIPTION>Popisy, barevné provedení, délku a zakončení vývodu je možno upravit (úprava se promítne do ceny klávesnice).</DESCRIPTION>
+  <URL>http://www.ttklavesnice.cz/cs/soubory/TS_523_2041.pdf</URL>
+  <AVAILABILITY>0</AVAILABILITY>
+  <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/63_standard_membrane_switch_standardni_klavesnice_TS_523_2041.jpg</IMGURL>
+  <PRICE>234</PRICE>
+  <VAT>20</VAT>
+  <SERVICE_LIFE>10^6</SERVICE_LIFE>
+  <KEY_SPACING>
+   <HORIZONTAL>19</HORIZONTAL>
+   <VERTICAL>19</VERTICAL>
+  </KEY_SPACING>
+  <MECHANICAL_RESPONSE>vložená kovová žabka</MECHANICAL_RESPONSE>
+  <KEY_COUNT>5</KEY_COUNT>
+  <INGRESS_PROTECTION>IP 65</INGRESS_PROTECTION>
+ </SHOPITEM>
+ 
+ <SHOPITEM>
+  <PRODUCT>TS 523 3042</PRODUCT>
+  <DESCRIPTION>Popisy, barevné provedení, délku a zakončení vývodu je možno upravit (úprava se promítne do ceny klávesnice).</DESCRIPTION>
+  <URL>http://www.ttklavesnice.cz/cs/soubory/TS_523_3042.pdf</URL>
+  <AVAILABILITY>0</AVAILABILITY>
+  <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/67_standard_membrane_switch_standardni_klavesnice_TS_523_3042.jpg</IMGURL>
+  <PRICE>141</PRICE>
+  <VAT>20</VAT>
+  <SERVICE_LIFE>5 x 10^5</SERVICE_LIFE>
+  <KEY_SPACING>
+   <HORIZONTAL>13</HORIZONTAL>
+   <VERTICAL>10.5</VERTICAL>
+  </KEY_SPACING>
+  <MECHANICAL_RESPONSE>natvarovaná krycí fólie</MECHANICAL_RESPONSE>
+  <KEY_COUNT>12</KEY_COUNT>
+  <INGRESS_PROTECTION>IP 65</INGRESS_PROTECTION>
+ </SHOPITEM>
+ 
+ <SHOPITEM>
+  <PRODUCT>TS 523 2196</PRODUCT>
+  <DESCRIPTION>Popisy, barevné provedení, délku a zakončení vývodu je možno upravit (úprava se promítne do ceny klávesnice).</DESCRIPTION>
+  <URL>http://www.ttklavesnice.cz/cs/soubory/TS_523_2196_3015.pdf</URL>
+  <AVAILABILITY>0</AVAILABILITY>
+  <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/64_standard_membrane_switch_standardni_klavesnice_TS_523_2196.jpg</IMGURL>
+  <PRICE>580</PRICE>
+  <VAT>20</VAT>
+  <SERVICE_LIFE>10^6</SERVICE_LIFE>
+  <KEY_SPACING>
+   <HORIZONTAL>13.2</HORIZONTAL>
+   <VERTICAL>13.2</VERTICAL>
+  </KEY_SPACING>
+  <MECHANICAL_RESPONSE>vložená kovová žabka</MECHANICAL_RESPONSE>
+  <KEY_COUNT>45</KEY_COUNT>
+  <INGRESS_PROTECTION>IP 65</INGRESS_PROTECTION>
+ </SHOPITEM>
+
 </SHOP>
