@@ -10,7 +10,7 @@
   <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/61_standard_membrane_switch_standardni_klavesnice_TS_523_0003.jpg</IMGURL>
   <PRICE>283</PRICE>
   <VAT>20</VAT>
-  <SERVICE_LIFE>10^6</SERVICE_LIFE>
+  <SERVICE_LIFE>1000000</SERVICE_LIFE>
   <KEY_SPACING>
    <HORIZONTAL>19</HORIZONTAL>
    <VERTICAL>19</VERTICAL>
@@ -28,7 +28,7 @@
   <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/62_standard_membrane_switch_standardni_klavesnice_TS_523_2000.jpg</IMGURL>
   <PRICE>360</PRICE>
   <VAT>20</VAT>
-  <SERVICE_LIFE>10^6</SERVICE_LIFE>
+  <SERVICE_LIFE>1000000</SERVICE_LIFE>
   <KEY_SPACING>
    <HORIZONTAL>19</HORIZONTAL>
    <VERTICAL>19</VERTICAL>
@@ -46,7 +46,7 @@
   <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/63_standard_membrane_switch_standardni_klavesnice_TS_523_2041.jpg</IMGURL>
   <PRICE>234</PRICE>
   <VAT>20</VAT>
-  <SERVICE_LIFE>10^6</SERVICE_LIFE>
+  <SERVICE_LIFE>1000000</SERVICE_LIFE>
   <KEY_SPACING>
    <HORIZONTAL>19</HORIZONTAL>
    <VERTICAL>19</VERTICAL>
@@ -64,7 +64,7 @@
   <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/67_standard_membrane_switch_standardni_klavesnice_TS_523_3042.jpg</IMGURL>
   <PRICE>141</PRICE>
   <VAT>20</VAT>
-  <SERVICE_LIFE>5 x 10^5</SERVICE_LIFE>
+  <SERVICE_LIFE>500000</SERVICE_LIFE>
   <KEY_SPACING>
    <HORIZONTAL>13</HORIZONTAL>
    <VERTICAL>10.5</VERTICAL>
@@ -82,7 +82,7 @@
   <IMGURL>http://www.ttklavesnice.cz/obrazky_spol/64_standard_membrane_switch_standardni_klavesnice_TS_523_2196.jpg</IMGURL>
   <PRICE>580</PRICE>
   <VAT>20</VAT>
-  <SERVICE_LIFE>10^6</SERVICE_LIFE>
+  <SERVICE_LIFE>1000000</SERVICE_LIFE>
   <KEY_SPACING>
    <HORIZONTAL>13.2</HORIZONTAL>
    <VERTICAL>13.2</VERTICAL>

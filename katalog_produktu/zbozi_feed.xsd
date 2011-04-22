@@ -34,7 +34,7 @@
     </xs:complexType>
     
     <xs:simpleType name="SERVICE_LIFE">
-        <xs:restriction base="xs:deciaml">
+        <xs:restriction base="xs:decimal">
             <xs:minInclusive value="0"/>
         </xs:restriction>
     </xs:simpleType>
