@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element  type="SHOP_TYPE" name="SHOP"/>
+    
+    <xs:complexType name="SHOP_TYPE">
+        <xs:sequence minOccurs="1"  maxOccurs="unbounded">
+            <xs:element type="SHOPITEM_TYPE" name="SHOPITEM"></xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="SHOPITEM_TYPE">    
+        <xs:all>
+            <xs:element name="PRODUCT" type="PRODUCT_NAME"/>
+            <xs:element name="DESCRIPTION" type="PRODUCT_DESCRIPTION"/>
+            <xs:element minOccurs="0" name="DUES" type="CZK_PRICE"/>
+            <xs:element minOccurs="0" name="DISCUSSION_SIZE"
+                type="xs:nonNegativeInteger"/>
+            <xs:element minOccurs="0" name="DISCUSSION_URL" type="xs:anyURI"/>
+            <xs:element name="AVAILABILITY" type="xs:nonNegativeInteger" minOccurs="0"/>
+            <xs:element minOccurs="0" name="SHOP_DEPOTS" type="xs:string"/>
+            <xs:element name="URL" type="xs:anyURI"/>
+            <xs:element name="IMGURL" type="xs:anyURI" minOccurs="0"/>
+            <xs:element name="ITEM_TYPE" type="ITEM_TYPE_TYPE" minOccurs="0"/>
+            <xs:element minOccurs="0" name="PRICE" type="CZK_PRICE"/>
+            <xs:element name="VAT" minOccurs="0" type="VAT_TYPE"/>                                                
+            <xs:element name="PRICE_VAT" type="CZK_PRICE" minOccurs="0"/>
+            <xs:element name="TOLLFREE" minOccurs="0" maxOccurs="1" type="TOLLFREE_TYPE"/> 
+            <xs:element name="FIRMY_CZ" minOccurs="0" type="FIRMY_CZ_TYPE"/>
+            <xs:element name="SERVICE_LIFE" type="SERVICE_LIFE"/>
+            <xs:element name="KEY_SPACING" type="KEY_SPACING"/> 
+            <xs:element name="MECHANICAL_RESPONSE" type="MECHANICAL_RESPONSE"/>
+            <xs:element name="KEY_COUNT" type="KEY_COUNT"/>
+            <xs:element name="INGRESS_PROTECTION" type="INGRESS_PROTECTION"/>
+        </xs:all>
+    </xs:complexType>
+    
+    <xs:simpleType name="SERVICE_LIFE">
+        <xs:restriction base="xs:deciaml">
+            <xs:minInclusive value="0"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:complexType name="KEY_SPACING">
+        <xs:sequence>
+            <xs:element name="HORIZONTAL" type="SPACING" />
+            <xs:element name="VERTICAL" type="SPACING" />
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:simpleType name="SPACING">
+        <xs:restriction base="xs:float">
+            <xs:minInclusive value="0"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="MECHANICAL_RESPONSE">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+    
+       <xs:simpleType name="KEY_COUNT">
+        <xs:restriction base="xs:nonNegativeInteger"/>
+    </xs:simpleType>
+    
+    <xs:simpleType name="INGRESS_PROTECTION">
+        <xs:restriction base="xs:string">
+             <xs:pattern value="IP [0-6][0-8]"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="TOLLFREE_TYPE">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="1"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="CZK_PRICE">
+
+                <xs:restriction base="xs:decimal">
+                    <xs:minExclusive value="0"/>
+                </xs:restriction>
+
+    </xs:simpleType>
+    <xs:simpleType name="PRODUCT_NAME">
+
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="1"/>
+                    <xs:maxLength value="64"/>
+                </xs:restriction>
+
+    </xs:simpleType>
+    <xs:simpleType name="PRODUCT_DESCRIPTION">
+
+                <xs:restriction base="xs:string">
+                    <xs:minLength value="1"/>
+                    <xs:maxLength value="512"/>
+                </xs:restriction>
+
+    </xs:simpleType>
+    <xs:simpleType name="VAT_TYPE">
+                        <xs:restriction base="xs:string">
+                            <xs:enumeration value="0,19"/>
+                            <xs:enumeration value="19"/>
+                            <xs:enumeration value="9"/>
+                            <xs:enumeration value="0,09"/>
+                            </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="ITEM_TYPE_TYPE">
+                        <xs:restriction base="xs:string">
+                            <xs:enumeration value="new"/>
+                            <xs:enumeration value="bazaar"/>
+                        </xs:restriction>
+
+    </xs:simpleType>
+    <xs:simpleType name="FIRMY_CZ_TYPE">
+
+   
+                        <xs:restriction base="xs:string">
+                            <xs:enumeration value="0"/>
+                            <xs:enumeration value="1"/>
+                        </xs:restriction>
+
+    </xs:simpleType>
+</xs:schema>

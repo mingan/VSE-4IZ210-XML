@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DistillSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="metadata-settings.xsd">
+    <File>metadata-input.txt</File>
+    <Encoding>utf-8</Encoding>
+    <Author>TT Klávesnice</Author>
+</DistillSettings>

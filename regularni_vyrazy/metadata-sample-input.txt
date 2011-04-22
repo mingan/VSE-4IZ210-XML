@@ -1,0 +1,386 @@
+Dostal se Vám do rukou dokument obsahující „vzorovou“ studii pro firmu VAS, která se pohybuje na trhu zpracovatelů vody. Úmyslně jsme vybírali z jiného segmentu, abychom zbytečně neubírali ze seznamu zajímavých firem, které máte k dispozici.
+
+Dokument byl naformátován podle osnovy, kterou zpracoval Ing. Vejlupek z firmy Tovek. Osnova sleduje určitou logiku, která nám umožní vámi sebrané informace dále analyzovat a zapracovat do Topic Mapy, která poslouží jako demonstrace v pilotním projekt pro možnou spolupráci VŠE se soukromou sférou. O výhodách a problémech tohoto projektu píši momentálně bakalářskou práci. 
+
+Oproti minulým ročníkům tak vaše úsilí nebude sloužit pouze jako důkaz Vaší schopnosti zpracovat informace na zadané téma, ale také k praktické demonstraci síly tohoto spojení. Pokud se vše povede, můžete příště právě Vy za podobný projekt v rámci bakalářské práce dostat zaplaceno.
+
+Vaše práce a výsledná topic mapa bude prezentována zástupcům energetického sektoru, kteří zhodnotí její kvalitu, popř. jí použijí pro konkrétní rozhodnutí v rámci jejich firem.
+
+Osnova obsahuje nejdůležitější části analýzy ve strukturované formě, kterou je z důvodu dalšího zpracování nutné dodržet. Při Vašem výzkumu trhu možná narazíte na informace, které plně nezapadnou do připravených subkapitol (např. v kapitole 4.). Po zralé úvaze či konzultaci s vyučujícím je možné subkapitolu přidat (jako jsem to udělal já s 2.7 – Finance).
+
+Svou práci bych ohodnotil známkou 3 – dobře. Chybí v ní grafy, obrázky, citace zdrojů, pokročilé formátování a spoustu dalších informací, za které budete Doc. Rauchem pozitivně hodnoceni.
+
+Věnujte prosím pozornost uvádění jmen a identifikačních údajů u osob a organizací v plném a základním tvaru (Vojtěch Roček – 881122/3922; VODÁRENSKÁ AKCIOVÁ SPOLEČNOST, a.s. IČ 49455842; Ing. Četr Haščšě RnDr.), aby bylo možné propojit jednotlivé entity a nevznikaly duplicity při spojování jednotlivých prací.
+
+Vaším dalším krokem bude označování klíčových pojmů pomocí makra, které vyvinula firma Tovek. Jak s makrem zacházet se dozvíte na přednášce, v dokumentech firmy Tovek a pro lepší pochopení Vám včas dodám další vzorovou verzi tohoto dokumentu.
+
+Přeji hodně štěstí při dolování informací.
+
+Vojta Roček
+hash@hash.cz
+
+
+
+
+
+
+
+
+Team Tovek.cz
+
+
+
+
+Analýza konkurenčního prostředí
+
+Zpracována pro firmu
+
+VODÁRENSKÁ AKCIOVÁ SPOLEČNOST, a.s.
+
+Pro předmět 4IZ210 
+zpracoval 17.9.2009 Vojta Roček
+
+1. Úvod 	3
+1.1 Složení teamu:	3
+1.2 Název firmy a důvod jejího výběru :	3
+1.3 Zdroje :	3
+2. Základní popis vybrané firmy	3
+2.1 Identifikační údaje	3
+2.2 Aktivity	4
+2.3 Osoby	4
+2.4 Organizace	5
+2.5 Věci	7
+2.6 Místa	7
+2.7 Finance	8
+3. Popis vazeb na okolí	8
+3.1 Dodavatelé	8
+3.2 Přímá konkurence:	8
+3.3 Substituty:	9
+3.4 Odběratelé/zákazníci	10
+3.5 Vliv makroekonomických jevů	10
+3.6 Pravidla	10
+4. Popis významných událostí a transakcí	11
+4.1 Kontrakty	11
+4.2 Ocenění	12
+4.3 Veletrhy	12
+4.4 Novinové články	12
+4.5 …	12
+5. Závěr - SWOT	12
+5.1 Silné stránky	12
+5.2 Slabé stránky	12
+5.3 Příležitosti	13
+5.4 Hrozby	13
+5.5 Závěr	13
+
+
+
+1. Úvod 
+
+Cílem této studie je provést analýzu konkurenčního prostředí pro firmu Vodárenská akciová společnost, a.s. V práci jsem se soustředil na jednotlivé oblasti oboru působnosti firmy, zhodnocení jejích dodavatelsko-odběratelských vztahů, pozici na trhu, finanční ukazatele, informace z médií, zajímavosti z oboru a oblasti, ve kterých VAS, a.s. vyniká.
+ 
+1.1 Složení teamu:
+
+Vojta Roček
+
+1.2 Název firmy a důvod jejího výběru :
+
+VODÁRENSKÁ AKCIOVÁ SPOLEČNOST, a.s.
+
+Vodárenská akciová společnost byla založena na konci roku 1993. Je tedy zaběhlou firmou, která působí na trhu již druhou dekádu. Společnost je významnou regionální provozní vodárenskou společností.
+Komunální charakter společnosti a orientace na zákazníka tvoří základní principy, kterými se řídí při poskytování služeb v rámci provozování vodovodů a kanalizací pro veřejnou potřebu. Základním posláním je ochrana zdraví člověka a péče o životní prostředí, což také vyjadřuje motto firmy: „Voda a lidé – partneři pro život“.
+
+1.3 Zdroje :
+
+Stránky společnosti – www.vodarenska.cz 
+SSV – www.ssv.cz
+DB ANNOPRESS – www.annopress.cz
+Další zdroje uvedené v textu
+2. Základní popis vybrané firmy
+2.1 Identifikační údaje
+
+Obchodní jméno: 	 	VODÁRENSKÁ AKCIOVÁ SPOLEČNOST, a.s.
+Právní forma: 	 		akciová společnost
+Sídlo:	 			Brno, Soběšická 820/156, PSČ 638 01
+Datum vzniku:	 		1. 12. 1993
+Základní jmění:	 		221 858 000 Kč
+IČ: 	 			49455842
+DIČ: 	 			CZ49455842
+Bankovní spojení : 	 	č.ú. 15304621/0100
+Hlavní předmět podnikání:	provozování vodovodů a kanalizací 
+
+Společnost je zaregistrována v obchodním rejstříku vedeným Krajským soudem v Brně v oddílu B, vložce 1181.
+2.2 Aktivity
+
+výroba a dodávka vody (komplexní provoz vodovodů)  
+odvádění a čištění odpadních vod a likvidace kalů (provoz kanalizací a ČOV)
+dílčí práce a činnosti při provozu VaK 
+revize těsností, vyhledávání poruch, odstraňování poruch a havárií  
+kontrola jakosti vod, desinfekce vody  
+montáž vodovodních přípojek a instalace vodoměrů 
+ 
+technicko-ekonomické činnosti na VaK 
+pásma hygienické ochrany  
+hodnocení projektů a technologií 
+zavádění nových metod úpravy vod  
+vyhodnocení zkušebního provozu a technologie ČOV 
+celoroční péče o kvalitu vod samostatných obcí 
+poradenství v oboru vodní a odpadové hospodářství  
+  
+inženýrská činnost na stavbách 
+příprava a realizace staveb včetně uvádění do provozu  
+stavební dozory  
+výběrová řízení 
+provozní řády  
+  
+vodohospodářské laboratoře s akreditací pro komplexní analýzy pitných odpadních a  	povrchových vod
+
+Speciální služby při provozu VAK 
+revizní činnost  
+dovoz pitné vody, nákladní doprava, vyvážení jímek a septiků 
+zemní práce 
+vyhledávání podzemních sítí 
+lokalizace úniku vody z potrubí 
+speciální práce čistícím vozem FAUN 
+2.3 Osoby
+
+Vlastníci
+
+Společnost vydala celkem 221 858 ks kmenových akcií na majitele. Jmenovitá hodnota jedné akcie je 1000 Kč.
+ Největším akcionářem je společnost Svaz s.r.o., která vlastní 50, 31%, to představuje 111 620 ks akcií a je tedy majoritním vlastníkem. Druhým největším akcionářem je společnost SUEZ ENVIROMENT, která vlastní 33,35%, to představuje 73 993 ks akcií. Celkem společnost vlastní 13 významnějších akcionářů.[5]
+V majetku členů dozorčí rady je celkem 10 ks akcí. V majetku vedoucích zaměstnanců je celkem 14  s akcií. Členové představenstva nevlastní žádné akcie.
+
+Management
+
+Generální ředitel, člen představenstva : 
+Hlaváč Jaroslav – 560714/3325
+
+Místopředseda představenstva :
+Klos Miroslav – 611223/5672
+
+Dozorčí rada : 
+Ambros Jaromír – 521012/6687
+Dočkal Pavel – 490112/6743
+Gut Josef – 770308/5566
+Hlaváč Jaroslav – 620813/8798
+Hlavička Bohumil – 510814/5689
+Kaluža Jan – 711223/2343
+
+Experti
+
+Ve firmě pracuje Andrej Voruška, publikoval několik studií na téma „čistší voda do domácností“.
+
+Zaměstnanci
+
+Ve firmě pracuje kolem 1.200 zaměstnanců.
+
+V roce 2007 péče o rozvoj lidských zdrojů vycházela především z optimalizace počtu struktury zaměstnanců, kteří si pomocí vzdělávacích programů zvyšují kvalifikaci, pomocí motivačních faktorů dosahují vyšší produktivity. Společnost se zapojila do Operačního programu rozvoje lidských zdrojů podporovaným Evropským sociálním fondem. Těmito procesy dochází ke zvyšování kvalifikace a stabilizace zaměstnanců, zvyšování jejich loajality ke společnosti a ke zvyšování potenciálu pro další rozvoj. K těmto aspektům přispívá i dlouhodobě úspěšné kolektivní vyjednávání.
+2.4 Organizace
+
+Společnost se rozkládá po celém Jihomoravském kraji. Toto území má rozdělené na jednotlivé divize. Každá z těchto sedmi divizí má svoje vedení a odpovídá za danou části Jihomoravského kraje. Divizím je správní a řídící složkou Generální řiditelství se sídlem v Brně.                        
+
+Úkolem Generálního ředitelství je řízení společnosti jako podnikatelského subjektu uvnitř společnosti i navenek. Děje se tak plánovací, organizační, řídící a kontrolní činností prováděnou na základě vnitropodnikových předpisů, případně zákonných norem, vůči ostatním organizačním jednotkám společnosti – provozním divizím (Boskovice, Brno-venkov, Jihlava, Třebíč, Znojmo, Žďár nad Sázavou) a technické divizi. Forma řízení podnikových organizačních složek je liniově štábní. Generální ředitel společnosti je přímým nadřízeným ředitelů divizí a svým dvěma náměstkům.
+Generální ředitelství je tvořeno třemi úseky: úsekem generálního ředitele, technickým úsekem a ekonomickým úsekem. Jejich úkolem je především liniově štábní řízení společnosti a dále řešení nerutinních problémů výrobního, technického, ekonomického, personálního a správního charakteru, odborná podpora hlavních výrobních procesů, kontrolní činnost a odborný servis pro vedení firmy. V určitých případech poskytují též konzultační a expertní služby mimo společnost. Pro vlastníky vodohospodářského majetku jsou tyto odborné služby v běžném rozsahu součástí plnění provozní a nájemní smlouvy, pro ostatní subjekty mají charakter zakázky.
+
+Partneři
+
+Jelikož se jedná o akciové společnosti, pak partnerství může vznikat taktéž skoupením určitého podílu akcií jednou firmou, která má ve vlastnictví jedna velká firma, což zrovna platí o Vodárenské akciové společnosti ,a.s.
+Společnost ONDEO je 100 % vlastněna společností Ondeo (dříve Suez Lyonnaise des Eaux Water) a ta je 100 % vlastněna společností SUEZ (dříve Suez Lyonnaise des Eaux), která má v ČR účast v následujících vodárenských společnostech: Vodárny a kanalizace Karlovy Vary, a.s., kde drží 49,79 % akcií, VODÁRENSKÁ AKCIOVÁ SPOLEČNOST, a.s., kde drží 33,35 % akcií, Ostravské vodárny a kanalizace a.s., kde drží 44,49 % akcií, Brněnské vodárny a kanalizace, a.s., kde drží 39,09 % akcií, Severomoravské vodovody a kanalizace Ostrava a.s., kde drží 44,38 % akcií a Vodotechnické služby, spol s r. o., kde drží 100% akcií. Prostřednictvím společnosti Lyonnaise Česká republika, s.r.o. 100 % vlastní od konce roku 2000 společnosti VOK, spol. s r.o. a Vodohospodářská společnost Benešov, s.r.o.
+Společnost ONDEO je součástí mezinárodní skupiny, jež začala vznikat propojením mezi COMPANIE DE SUEZ a Lyonnaise des Eaux v roce 1997. V tomto období byly přesunuty zdroje do čtyř hlavních činností, kterými jsou energetika, vodohospodářství, odpadové hospodářství a masmédia. Výsledkem rozhodnutí přeorganizovat činnosti ve vodárenském odvětví je vznik skupiny společností pod názvem Ondeo. Vodohospodářské služby, jako je distribuce pitné vody, úprava vody apod., byly přeskupeny pod jednu společnost nazvanou ONDEO.
+Společnost SUEZ vznikla ve Francii v r. 1997 splynutím dvou firem s více než stoletou historií: Lyonnaise des Eaux, s  tradicí vodárenských služeb a Compagnie de Suez, s  tradicí bankovních 
+a finančních služeb. Předmětem činnosti SUEZ je zásobování měst pitnou a užitkovou vodou, čištění odpadních vod a provádění všech činností v oblasti poskytování služeb obcím a jednotlivcům při vybavování měst a správě životního prostředí. Prostřednictvím svých dceřiných společností působí ve více než 100 zemích světa, zajišťuje služby pro 77 mil. obyvatel zásobovaných pitnou vodou a 52 mil. obyvatel napojených na kanalizaci. Z historického hlediska společnosti SUEZ můžeme najít velké zkušenosti v dodávce pitné vody a kanalizace.
+
+2.5 Věci
+
+Ke svému provozu společnost používá tyto produkty :
+
+vzorkovač
+laboratorní přístroje
+laboratorní vybavení
+monitorování kvality vody
+potrubí
+speciální automobily (např. fekální vozy, cisterny)
+korelátor Secorr 04
+kolové rypadlo
+kompresor
+řezačka asfaltu
+vibrační pěch
+kalové čerpadlo
+rýpadlo - nakladač  580 Super K
+
+Je závislá na:
+
+Několika hloubkových vrtech v Jihomoravském kraji.
+Studnách v oblasti Zlína.
+
+Patenty:
+
+Nepodařilo se objevit žádné patenty patřící VAS.
+
+2.6 Místa
+
+Vodárenská akciová společnost působí na území okresů Brno-Venkov, Blansko, Jihlava, Třebíč, Znojmo, Žďár nad Sázavou. Tyto okresy tvoří významnou část Jihomoravského kraje a kraje Vysočina.
+Spotřebiště má výrazně venkovský charakter, neboť 69% obcí má méně než 500 obyvatel, 25% jsou obce do 2000 obyvatel, 5% jsou obce do 10 000 obyvatel (43 obcí) a pouze 1% jsou města větší než 10 000 obyvatel (8 měst). Celé území je součástí regionu (NUTS-2) Jihovýchod, který tvoří kraje Vysočina a Jihomoravský kraj.
+
+Ve srovnání s průměrem v České republice je spotřeba pitné vody nízká, dosahuje pouze 70 až 80%. Objem fakturované vody na jeden kilometr provozované sítě je o 34% nižší než je celostátní průměr, podobně podprůměrný (83%) je počet obyvatel napojených na jeden kilometr provozované sítě. 
+
+Co se týče rozsahu, společnost patří mezi 7 největších provozovatelů vodovodů a kanalizací v České republice. Údaje jsou z roku 2005.
+
+2.7 Finance
+
+V roce 2007 činil hospodářský výsledek 34 333 tis. Kč. Plánovaný hospodářský výsledek byl tedy překročen o 14 584 tis Kč – plnění na 173, 87%. Na tomto kladném výsledku se podílely všechny provozní divize a generální ředitelství. Pouze technické divizi se z důvodu stěhování laboratoře a přípravy stavby nových laboratoří nepodařilo kladného hospodářského výsledku dosáhnout.
+3. Popis vazeb na okolí
+3.1 Dodavatelé
+
+Jako hlavního dodavatele u Vodárenské akciové společnosti můžeme považovat obce, které pronajímají vodovodní a kanalizační sítě, případně čističky odpadních vod a výrobny pitné vody. 
+VAS, a.s. má pronajatou vodovodní nebo kanalizační síť od vlastníka (obce) za účelem jeho řádného a odborného provozu. Vlastníkovi platí nájemné ve sjednané výši. Právo na vodné a stočné převádí vlastník na provozovatele.
+
+Dále jsou to dodavatelé materiálu na stavbu a údržbu vodovodní a kanalizační sítě, přístrojů na měření kvality vody, výrobci čističek odpadních vod, atd.
+
+Bürkle 			www.buerkle.de
+WaterSam 		www.watersam.de
+Edmund Bühler GmbH 	www.otto-gmbh.de
+S::CAN 			www.s-can.at 
+
+3.2 Přímá konkurence:
+
+Vvýpis největších konkurentů:
+
+Brněnské VaK, a.s.
+Ostravské VaK, a.s.
+Pražské VaK, a.s.
+Severočeské VaK, a.s.
+Severomoravské VAK, a.s.
+Slovácké VaK Uh. Hradiště, a.s.
+Středomoravská vod. Olomouc, a.s. 
+Šumperská provozní vod. spol., a.s.
+VaK Břeclav, a.s.
+VaK Hodonín, a.s.
+
+Další konkurencí může být v menších městech a vesnicích vybudování vlastních studen a jímek, což může řešit otázku zdroje pitné vody a dočasného odvodu splašků. Jedná se o investici náročnou na počáteční kapitál. Avšak v dnešní době k této možnosti přistupují občané jen velmi zřídka. Dokonce se zachycuje trend, kdy se z odběratelů vody ze studny stávají odběratelé z vodovodního potrubí.
+
+Podíl fixních nákladů je tak vysoký, že v dané lokalitě (obci) může být pouze jeden provozovatel. Jedná se zejména o vodovodní a kanalizační potrubí, výrobny pitné vody, čističky odpadních vod, které vodohospodářským firmám pronajímají obce.
+
+I přesto můžou menší podniky považovat za výhodné zajistit si filtraci svépomocí. V takovém případě jsou konkurenti tyto firmy :
+
+AQUA product trade, s.r.o.[19]
+Návrh, výroba, dodávka a servis zařízení na úpravu vody v odvětvích změkčování, filtrace, dezinfekce, magnetická úprava, reverzní osmóza. Odstraníme železo, dusičnany, bakterie. Vyrobíme rozdělovač, HVDT, bojler, tlakové nádoby. Úprava vody na pískovém filtru. Dodáme katexový změkčovač, potrubní oddělovač, filtr na mechanické nečistoty, filtry Honeywell, odplyňovače spirovent, dávkovací čerpadla a chemikálie na úpravu vody. Vyrobíme sběrač, anuloid, kalník a zásobní nádrž
+http://www.aquaproduct.cz
+
+DETO Brno, spol. s r.o.[20]
+Návrh technologie a kompletní dodávky zařízení na úpravu vody v oborech změkčení, filtrace, dekarbonizace, demineralizace, reverzní osmóza, dezinfekce, dávkování chemikálií, zařízení na odželeznění a denitrifikaci. Bojlery, zásobníky a rozdělovače.
+http://www.deto.cz
+
+AQUA Cleer (pobočka Brno-Královo Pole)[21]
+Zajišťování komplexních služeb v oblasti úpravy, čištění a filtrace vody. Projekce, instalace a servis.
+http://www.aquacleer.cz 
+
+Aqua Direct, s.r.o.[22]
+Nabízíme sortiment rozvodného materiálu z PVC, PP, PE pro rozvody pitné vody, filtrace, úpravny vody, bazény, závlahy a kanalizace.
+http://www.aquadirect.cz
+3.3 Substituty:
+
+Zdroje pitné vody mohou být nahrazeny studnami na pozemcích odběratelů, kde ovšem není stálá kvalita vody zaručena. Další možností je nákup balené vody v PET lahvích, která je mnohem dražší. 
+
+3.4 Odběratelé/zákazníci
+
+Spotřebiště VAS, a.s. má výrazně venkovský charakter, svědčí o tom velikost obcí ve kterých působí – 2/3 obcí mají méně než 500 obyvatel, nad 10 000 obyvatel má pouze 8 měst (Jihlava, Třebíč, Znojmo, Žďár nad Sázavou, Blansko, Velké Meziříčí,Boskovice a Nové Město na Moravě).
+Odběrateli jsou tedy především domácnosti, které využívají jako zdroj užitkové vody i jiné zdroje (vlastní studny, dešťová voda). Z toho vyplývá, že objem fakturované vody je přibližně o 1/3 nižší než  průměr ČR.
+
+Dodávku pitné vody nemůže jednotlivec nahradit, pokud nemá vlastní přírodní zdroj, případně může dovážet vodu balenou. Náklady na úpravu znečištěné vody na vodu pitnou jsou pro jednotlivce neúnosné.
+
+3.5 Vliv makroekonomických jevů
+
+Regulátoři
+
+V tomto odvětví má cena vody a cena za odvádění odpadních vod hlavní roli v příjmu firem. Cena tzv. „vodného“ a  „stočného“ je udávána cenovým stropem, kdy Stát reguluje ceny vodného a stočného principem věcně usměrňované ceny podle zákona č. 526/1990 Sb., o cenách.V něm stát určuje výši nákladů, které může firma promítnout do konečné ceny.
+Cena je také ovlivněna geografickým umístěním odběratele, kde záleží na charakteru terénu. V praxi to znamená, že pokud odběratel bydlí v okrajové části města, pak tento odběratel bude platit o něco větší částku než odběratel ze středu města. Další charakteristikou ceny je také otázka vzdálenosti a kvality zdroje a také právě ceny surové vody. Toto vše je hlavním důvodem vysokého počtu cen nejen ve Vodárenské akciové společnosti, a.s., ale v celé České republice.
+
+3.6 Pravidla
+
+Zákon č. 138/1973 Sb., o vodách (vodní zákon) 
+
+Zákon České národní rady č. 130/1974 Sb., o státní správě ve vodním hospodářství ve znění zákona České národní rady č. 49/1982 Sb., zákona České národní rady č. 425/1990 Sb. a zákona České národní rady č. 23/1992 Sb., v úplném znění zákona České národní rady č. 458/1992 Sb.
+Zákon č. 17/1992 Sb. o životním prostředí 
+Zákon č. 86/1992 Sb., o péči o zdraví lidu, (úplné znění pro ČR, jak vyplývá z pozdějších změn a doplnění) 
+Nařízení vlády ČSSR č. 35/1979 Sb., o úplatách ve vodním hospodářství, ve znění nařízení vlády ČSSR č. 91/1988 Sb. a zákona České národní rady č. 281/1992 Sb. 
+Nařízení vlády ČR č. 171/1992 Sb., kterým se stanoví ukazatele přípustného stupně znečištění vod 
+Vyhláška ministerstva lesního a vodního hospodářství ČSSR č. 6/1977 Sb., o ochraně jakosti povrchových a podzemních vod.
+Vyhláška MZ č. 37/2001 Sb. o hygienických požadavcích na výrobky přicházející do přímého styku s vodou a na úpravu vody
+
+Společnost musí své kroky řídit mimo jiné podle těchto norem :
+
+ČSN 75 5201 Vodárenství. Navrhování úpraven pitné vody.
+ČSN 73 6815 Vodohospodářská řešení vodních nádrží
+ČSN 75 0130 Vodní hospodářství. Názvosloví ochrany vod a procesů změn jakosti vody 
+ČSN 75 0150 Vodní hospodářství. Názvosloví vodárenství 
+ČSN 75 0170 Vodní hospodářství. Názvosloví jakosti vod 
+ČSN 75 3310 Odkaliště 
+ČSN 75 5050 Chlorové hospodářství ve vodohospodářských provozech (v návrhu)
+ČSN 75 5301 Vodárenské čerpacie stanice 
+ČSN 75 7111 Jakost vod. Pitná voda 
+ČSN 75 7214 Jakost vod. Surová voda pro úpravu na pitnou vodu 
+ČSN 83 0615 Požadavky na jakost vody dopravované potrubím 
+ČSN 83 0905 Ochrana vody před znečištěním ze skládek. Společná ustanovení
+ČSN 75 5401 Vodárenstvo. Navrhovanie vodovodných potrubí 
+ČSN 75 5402 Vodárenstvo. Výstavba vodovodných potrubí 
+ČSN 75 5411 Vodárenství. Vodovodní přípojky 
+ČSN 75 7211 Jakost vod. Pitná voda. Kontrola jakosti při dopravě, akumulaci a distribuci 
+ČSN 75 7212 Jakost vod. Kontrola jakosti vod při úpravě na pitnou vodu 
+ČSN 75 7220 Jakost vod. Kontrola jakosti povrchových vod 
+ČSN 75 7221 Jakost vod. Klasifikace jakosti povrchových vod 
+ČSN 83 0901 Ochrana povrchových vod před znečištěním. Všeobecné požadavky
+
+4. Popis významných událostí a transakcí
+4.1 Kontrakty
+
+Společnost má dlouhodobé kontrakty na poskytování pitné vody a zajištění kanalizačních služeb v těchto regionech:
+
+Blansko 	
+Ivančice
+Šlapanice
+Tišnov 	
+Židlochovice 	
+Jihlava 	
+Třebíč 	
+Znojmo
+Žďár n./Sáz.
+4.2 Ocenění
+
+V letošním roce se společnost ucházela v tradiční anketě o titul Zaměstnavatel roku za Jihomoravský kraj. Z 30 nominovaných mohla však do finálového kola postoupit jen jedna. Tou byla firma Ahold. Vodárenská tak zůstala za dveřmi finále.
+
+4.3 Veletrhy
+
+Firma se každý rok účastní veletrhu „Voda a život“, patří mezi 50 největších vystavovatelů
+
+4.4 Novinové články
+
+4.5 …
+
+5. Závěr - SWOT
+5.1 Silné stránky
+
+Společnost má velmi silnou a stabilní pozici na jednou dobitých trzích. Vzhledem k velkým nákladům na znovuvybudování infrastruktury se konkurentům nevyplatí investovat. Jednotlivé sídelní jednotky umí s VAS, a.s. vyjednávat a cena odpovídá tržním standardům.
+
+Zařízení, které využívá, ve většině případů i distribuuje. Její závislost na dodavatelích je velmi nízká, odebírá od čtyř různých firem.
+
+Odběratelskou základnu VAS tvoří hlavně obyvatelé menších obcí, kteří nemají na výběr jiného dodavatele pitné vody, pokud nemají vlastní zdroj pitné vody. Smlouva o provozování vodovodních sítí a cenách vody je uzavřena s obcí, tudíž jednotliví obyvatelé cenu nemohou přímo ovlivnit, pouze změnou ve vedení obce a případnou úpravou smlouvy nebo změnou provozovatele vodovodní sítě - celý proces je velmi zdlouhavý a s nejistým výsledkem. 
+
+Počet firem dodávajících technologie na úpravu vody je velké množství, jedná se spíše o menší firmy, z toho vyplývá, že nahradit dodavatele přístrojů v delším časovém období nebude problém. Pokud bereme obci jako dodavatele (pronajímatele) rozvodných sítí, jedná se spíš o problém konkurence, komu sítě pronajme.
+
+5.2 Slabé stránky
+
+Obory podléhající regulaci jsou závislé na vůli státu, který se může zachovat v rozporu s tržní situací a tím firmě ublížit. S tímto rizikem se zvlášť v ČR špatně kalkuluje. Firma může podat žalobu k ES, ale potenciální ušlé zisky jí to nenahradí.
+5.3 Příležitosti
+
+Privatizace vodárenských sítí se v ČR již blíží ke konci, proto nelze očekávat nové tendry, které by významným způsobem zvýšily obrat firmy. Avšak může se dále rozvíjet na trhu zařízení pro úpravu vody.
+
+5.4 Hrozby
+
+Rizikem může být  např. déletrvající sucho, které v kombinaci s menším množstvím studní může způsobit krátkodobé výpadky zásobovaní v určitých lokalitách. V případě dramatických změn na poli ekologie může dojít k neúměrnému zvýšení nákladů na získávání pitné vody.
+
+5.5 Závěr
+
+Z hlediska stávající konkurence může nastat menší riziko ve formě skupování nebo fúzování ostatních firem na trhu, ale prozatím funguje přirozený monopol.
+Hrozba nových konkurentů je nízká především díky bariérám vstupu. Tyto bariéry tvoří zejména hygienické předpisy, vysoké náklady na vyhledávání vodních zdrojů a vysoké fixní náklady.
+Zákazníci na firmu nemají příliš velký vliv, protože jak už bylo řečeno, funguje přirozený monopol, a tak spotřebitelé nemají příliš na výběr. Alternativní možností by bylo například zřídit si vlastní studnu či jímku, ale to je pro většinu obyvatel příliš nákladné. Je tedy téměř nemožné nalézt substitut.
+VAS,a.s. je jedním z největších odběratelů produktů na Moravě, ale dodavatelů je velké množství. Je zde tedy menší riziko, že si dodavatelé budou konkurovat a mohou tak vyjednávat.
