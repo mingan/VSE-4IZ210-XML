@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">            
-    <xsl:output method="xhtml"  encoding="utf-8" indent="yes" doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" xml:lang="cs"></xsl:output>
+    <xsl:output method="xhtml" encoding="utf-8" indent="yes" doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" xml:lang="cs"></xsl:output>
 <!-- Následující šablona se uplatní na element SHOP -->    
 <xsl:template match="SHOP">
     <!-- Obsah šablony se vypíše na výstup včetně obsažených značek, v tomto případě jazyka HTML  -->
@@ -31,14 +31,13 @@
     <xsl:template match="SHOPITEM">
         <hr/>
         <h2><xsl:value-of select="PRODUCT"/></h2>
-                
         <table>
-            <tr><td rowspan="8" ><img src="{IMGURL}" alt=""/></td><td>Popis</td><td><xsl:value-of select="DESCRIPTION"/></td></tr>
+            <tr><td rowspan="9" ><img src="{IMGURL}" alt=""/></td><td class="nazevParametru">Popis</td><td><xsl:value-of select="DESCRIPTION"/></td></tr>
             <!-- XML dokument musí obsahovat PRICE nebo PRICE_VAT a VAT-->
-            <xsl:if test="PRICE"><tr><td class="nazevParametru">Cena v Kč bez DPH</td><td><xsl:value-of select="PRICE"/></td></tr></xsl:if>                                    
+            <xsl:if test="PRICE"><tr class="odd"><td>Cena v Kč bez DPH</td><td><xsl:value-of select="PRICE"/></td></tr></xsl:if>                                    
             <xsl:if test="PRICE_VAT"><tr><td>Cena v Kč s DPH</td><td><xsl:value-of select="PRICE_VAT"/></td></tr></xsl:if>
             <xsl:if test="VAT"><tr><td>Sazba DPH</td><td><xsl:value-of select="VAT"/></td></tr></xsl:if>
-            <tr>
+            <tr class="odd">
                 <xsl:variable name="serviceLife" select="SERVICE_LIFE"/>
                 <td>Životnost</td>
                 <td><xsl:analyze-string select="$serviceLife" regex="(10|([1-9]\d*?))(0+)?">
@@ -54,9 +53,10 @@
                 </xsl:non-matching-substring>
             </xsl:analyze-string> cyklů</td></tr>
             <tr><td>Rozteč kláves (hor./vert.)</td><td><xsl:value-of select="KEY_SPACING/HORIZONTAL"/>/<xsl:value-of select="KEY_SPACING/VERTICAL"/> mm</td></tr>
-            <tr><td>Mechanická odezva</td><td><xsl:value-of select="MECHANICAL_RESPONSE"/></td></tr>
+            <tr class="odd"><td>Mechanická odezva</td><td><xsl:value-of select="MECHANICAL_RESPONSE"/></td></tr>
             <tr><td>Počet kláves</td><td><xsl:value-of select="KEY_COUNT"/></td></tr>
-            <tr><td>Stupeň ochrany</td><td><xsl:value-of select="INGRESS_PROTECTION "/></td></tr>            
+            <tr class="odd"><td>Stupeň ochrany</td><td><xsl:value-of select="INGRESS_PROTECTION "/></td></tr>            
+            <tr><td>Katalogový list</td><td><xsl:value-of select="URL"/></td></tr>
         </table>        
         
 
