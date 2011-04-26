@@ -1,1 +1,19 @@
-.nazevParametru {width: 150px;}
+html {background-color: #E8E5FF; }
+body {background-color: #FFFFFF; font: 14px Verdana, Arial, Helvetica, sans-serif; width: 900px; border: 2px solid #0B004F; margin-left: auto; margin-right: auto; padding: 20px; }
+
+.nazevParametru {width: 200px; }
+
+table {width: 840px; }
+
+.odd {width: 150px; border: 2px solid #0B004F; background-color: #E8E5FF;}
+
+img {border: none; padding: 0 20px 0 0;}
+
+hr {color: #fff; background-color: #fff; border: 1px dotted #9281FF; border-style: none none dotted; }
+
+h1 {font: 36px Georgia, "Times New Roman", Times, serif; color: #000000; text-align:center;}
+
+h2 {font: 30px Georgia, "Times New Roman", Times, serif; color: #261D5F; margin: 23px 0 4px 0;}
+
+
+
