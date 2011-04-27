@@ -9,7 +9,7 @@
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head>       
         <title>Nabídka TT klávesnice</title>        
-        <link rel="stylesheet" type="text/css" href="zbozifeed_style.css"/>
+        <link rel="stylesheet" type="text/css" href="zbozifeed_style_ttklavesnice.css"/>
         <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     </head>
     <body>
@@ -56,7 +56,7 @@
             <tr class="odd"><td>Mechanická odezva</td><td><xsl:value-of select="MECHANICAL_RESPONSE"/></td></tr>
             <tr><td>Počet kláves</td><td><xsl:value-of select="KEY_COUNT"/></td></tr>
             <tr class="odd"><td>Stupeň ochrany</td><td><xsl:value-of select="INGRESS_PROTECTION "/></td></tr>            
-            <tr><td>Katalogový list</td><td><xsl:value-of select="URL"/></td></tr>
+            <tr><td>Katalogový list</td><td><a href="{URL}"><xsl:value-of select="URL"/></a></td></tr>
         </table>        
         
 

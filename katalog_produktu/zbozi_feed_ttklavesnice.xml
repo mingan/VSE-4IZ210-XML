@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="zbozi_feed.xsl"?>
+<?xml-stylesheet type="text/xsl" href="zbozi_feed_ttklavesnice.xsl"?>
 <SHOP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="zbozi_feed.xsd">
+ xsi:noNamespaceSchemaLocation="zbozi_feed_ttklavesnice.xsd">
  <SHOPITEM>
   <PRODUCT>TS 523 0003</PRODUCT>
   <DESCRIPTION>Popisy, barevné provedení, délku a zakončení vývodu je možno upravit (úprava se promítne do ceny klávesnice).</DESCRIPTION>
